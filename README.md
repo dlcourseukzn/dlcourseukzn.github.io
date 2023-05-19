@@ -1,4 +1,4 @@
-# mlcourseukzn.github.io
+# dlcourseukzn.github.io
 
 This is the GitHub repository for the website for the DSI-Africa Deep Learning Short Course ([UKZN](https://ukzn.ac.za)) which is located at [https://dlcourseukzn.github.io](https://dlcourseukzn.github.io/).
 
