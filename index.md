@@ -241,7 +241,7 @@ title: Deep Learning Short Course
     <td class="tg-0lax">Dr. Sandra Barteit, Training Director, Heidelberg Institute of Global Health, Germany</td>
     <td class="tg-0lax"><a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a><br></td>
     <td class="tg-0lax">My enthusiasm for Global Health led me to join the Heidelberg University Institute of Global Health as a full-time researcher in 2015. Currently, amongst many other projects, I am leading a project that implements novel measurements of wearables in vulnerable populations in Kenya and Burkina Faso to conduct cutting-edge climate change and health research, which helpd us gain new insights into the disease burden in poor populations facing exposure to climate change, such as heat or droughts. Furthermore, I lead the Blended Learning in Zambia (BLiZ) project that implements blended learning to strengthen medical education at the largest medical University in Zambia. In my research, I apply a variety of analytics models and cross-cutting analytics modeling concepts and cases.</td>
-    <td class="tg-0lax"><img src="figures/Heather.png" width="1000" height="1000" alt="Heather"/></td>
+    <td class="tg-0lax"><img src="figures/Sandra.png" width="1000" height="1000" alt="Sandra-Barteit"/></td>
   </tr>
   <tr>
     <td class="tg-0lax">Facilitator</td>
