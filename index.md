@@ -38,21 +38,23 @@ title: Deep Learning Short Course
 <thead>
   <tr>
     <th class="tg-amwm">Time</th>
-    <th class="tg-amwm">Monday 23/01</th>
-    <th class="tg-amwm">Tuesday 24/01</th>
-    <th class="tg-amwm">Wednesday 25/01</th>
-    <th class="tg-amwm">Thursday 26/01</th>
-    <th class="tg-amwm">Friday 27/01</th>
+    <th class="tg-amwm">Monday 26/06</th>
+    <th class="tg-amwm">Tuesday 27/06</th>
+    <th class="tg-amwm">Wednesday 28/06</th>
+    <th class="tg-amwm">Thursday 29/06</th>
+    <th class="tg-amwm">Friday 30/06</th>
+    <th class="tg-amwm">Saturday 01/07</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-amwm">9:00-10:30 am</td>
-    <td class="tg-0lax">Introduction to machine learning</td>
-    <td class="tg-0lax">Naïve Bayes, KNN</td>
-    <td class="tg-0lax">Regression and classification trees</td>
-    <td class="tg-0lax">Regularization, Ridge Regression, LASSO</td>
-    <td class="tg-0lax">Dealing with a multiclass classification problem</td>
+    <td class="tg-0lax">Introduction to Deep Learning</td>
+    <td class="tg-0lax">Introduction to Backpropagation and Multilayer Perceptrons (MLPs)</td>
+    <td class="tg-0lax">MLPs in Python with Keras, Regularization</td>
+    <td class="tg-0lax">Introduction to Convulutional Neural Networks (CNNs)</td>
+    <td class="tg-0lax">CNNs Basics, Fine Tuning and Visualzing the CNNs Model</td>
+    <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
   </tr>
   <tr>
     <td class="tg-amwm">10:30-10:45 am</td>
@@ -61,14 +63,16 @@ title: Deep Learning Short Course
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
   </tr>
   <tr>
     <td class="tg-amwm">10:45-12:00 pm</td>
-    <td class="tg-0lax">Logistic regression</td>
-    <td class="tg-0lax">LDA and QDA</td>
-    <td class="tg-0lax">Random forests and boosting</td>
-    <td class="tg-0lax">Support vector machines</td>
-    <td class="tg-0lax">Multinomial regression</td>
+    <td class="tg-0lax">Deep Learning vs Machine Learning, Unsupoervised Machine Learning</td>
+    <td class="tg-0lax">Activation Functions</td>
+    <td class="tg-0lax">MLPs in Python with Keras, Regularization</td>
+    <td class="tg-0lax">Convlution, Pooling, and Fully Connected Layers</td>
+    <td class="tg-0lax">CNNs Basics, Fine Tuning and Visualzing the CNNs Model</td>
+    <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
   </tr>
   <tr>
     <td class="tg-amwm">12:00-1:00 pm</td>
@@ -77,14 +81,16 @@ title: Deep Learning Short Course
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Lunch</td>
   </tr>
   <tr>
     <td class="tg-amwm">1:00-2:15 pm</td>
-    <td class="tg-0lax">Performance metrics, ROC, AUROC</td>
-    <td class="tg-0lax">Tuning of parameters, avoid over fitting</td>
-    <td class="tg-0lax">Feature selection and feature importance</td>
-    <td class="tg-0lax">Tuning of machines, comparison of machines</td>
-    <td class="tg-0lax">The validation of machines problem</td>
+    <td class="tg-0lax">Neural Networks Architecture Basics</td>
+    <td class="tg-0lax">Regularization Techniques</td>
+    <td class="tg-0lax">MLPs in Python with Keras, Regularization</td>
+    <td class="tg-0lax">Data Agumentation using Pretrained Networks</td>
+    <td class="tg-0lax">Training and Testing Models on Sample Datasets</td>
+    <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
   </tr>
   <tr>
     <td class="tg-amwm">2:15-2:30 pm</td>
@@ -93,14 +99,16 @@ title: Deep Learning Short Course
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
   </tr>
   <tr>
     <td class="tg-amwm">2:30-3:45 pm</td>
-    <td class="tg-0lax">Lab</td>
-    <td class="tg-0lax">Lab</td>
-    <td class="tg-0lax">Lab</td>
-    <td class="tg-0lax">Lab</td>
-    <td class="tg-0lax">Lab</td>
+    <td class="tg-0lax">Simple Example of Deep Learning in Global Health Research</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
   </tr>
 </tbody>
 </table>
