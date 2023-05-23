@@ -6,7 +6,7 @@ title: Lectures
 Below you'll find a list of links to lecture notes and code as well as links to homework assignments, lab session materials, slack channels for asking questions, and additional reference material. 
 
 
-<! -- <li><a href="https://github.com/mlcourseukzn/DSI_Africa_ML_ShortCourse.github.io">Lecture Materials</a></li> -->
+<! --- <li><a href="https://github.com/mlcourseukzn/DSI_Africa_ML_ShortCourse.github.io">Lecture Materials</a></li> -->
 
 ##### Week 1 - Day 1 Materials:
 
