@@ -130,21 +130,21 @@ title: Deep Learning Short Course
 <thead>
   <tr>
     <th class="tg-amwm">Time</th>
-    <th class="tg-amwm">Monday 30/01</th>
-    <th class="tg-amwm">Tuesday 31/01</th>
-    <th class="tg-amwm">Wednesday 01/02</th>
-    <th class="tg-amwm">Thursday 02/02</th>
-    <th class="tg-amwm">Friday 03/02</th>
+    <th class="tg-amwm">Monday 03/07</th>
+    <th class="tg-amwm">Tuesday 04/07</th>
+    <th class="tg-amwm">Wednesday 05/07</th>
+    <th class="tg-amwm">Thursday 06/07</th>
+    <th class="tg-amwm">Friday 07/07</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-amwm">9:00-10:30 am</td>
-    <td class="tg-0lax">Introduction to Cross Validation; Types of Cross Validation</td>
-    <td class="tg-0lax">Application: Individual Data inspection and Preparation for modelling</td>
-    <td class="tg-0lax">Application: kNN, LDA and QDA</td>
-    <td class="tg-0lax">Application: Random forests: Regression and classification trees</td>
-    <td class="tg-0lax">Report writing based on the cases (Dataset) the participant(s) work on</td>
+    <td class="tg-0lax">Introduction to Recurrent Neural Networks (RNNs)</td>
+    <td class="tg-0lax">RNNs Basics</td>
+    <td class="tg-0lax">RNNs Basics Continued (LSTM)</td>
+    <td class="tg-0lax">Introduction to Transformers and Transfer Learning</td>
+    <td class="tg-0lax">Project Competition</td>
   </tr>
   <tr>
     <td class="tg-amwm">10:30-10:45 am</td>
@@ -156,11 +156,11 @@ title: Deep Learning Short Course
   </tr>
   <tr>
     <td class="tg-amwm">10:45-12:00 pm</td>
-    <td class="tg-0lax">Practical Dataset partitioning</td>
-    <td class="tg-0lax">Application: Logistic Regression Model</td>
-    <td class="tg-0lax">Application: kNN, LDA and QDA</td>
-    <td class="tg-0lax">Interpretation of the random forest results using variable importance</td>
-    <td class="tg-0lax">Report writing based on the cases (Dataset) the participant</td>
+    <td class="tg-0lax">Overview of Different Types of RNNs</td>
+    <td class="tg-0lax">RNNs Basics</td>
+    <td class="tg-0lax">LSTM and GRU cells</td>
+    <td class="tg-0lax">Introduction to Transformers and Transfer Learning</td>
+    <td class="tg-0lax">Project Competition</td>
   </tr>
   <tr>
     <td class="tg-amwm">12:00-1:00 pm</td>
@@ -172,11 +172,11 @@ title: Deep Learning Short Course
   </tr>
   <tr> 
     <td class="tg-amwm">1:00-2:15 pm</td>
-    <td class="tg-0lax">Dealing with imbalanced datasets</td>
-    <td class="tg-0lax">Application: Naïve Bayes model</td>
-    <td class="tg-0lax">Application: Evaluation of the models’ performance and Interpretations</td>
-    <td class="tg-0lax">Application: Ridge Regression, LASSO</td>
-    <td class="tg-0lax">Report writing based on the cases (Dataset) the participant</td>
+    <td class="tg-0lax">Basic Structure of RNNs and How they Work</td>
+    <td class="tg-0lax">Gradient Flow and Backpropagation through Time (BPTT)</td>
+    <td class="tg-0lax">Implementing a Simple RNN in Python (Tenserflow)</td>
+    <td class="tg-0lax">Pre-Trained Models, Fine-Tuning</td>
+    <td class="tg-0lax">Course Evaluation</td>
   </tr>
   <tr>
     <td class="tg-amwm">2:15-2:30 pm</td>
@@ -188,11 +188,11 @@ title: Deep Learning Short Course
   </tr>
   <tr> 
     <td class="tg-amwm">2:30-3:45 pm</td>
-    <td class="tg-0lax">Practical evaluation of model performance through cross validation</td>
-    <td class="tg-0lax">Interpretations of the models results and performance evaluation</td>
-    <td class="tg-0lax">Application: Evaluation of the models’ performance and Interpretations</td>
-    <td class="tg-0lax">Application: Evaluation of the models’ performance and Interpretations</td>
-    <td class="tg-0lax">Course Evaluation and Closing Remarks</td>
+    <td class="tg-0lax">Applications of RNNs in Global Health Research</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Closing Ceremony</td>
   </tr>
 </tbody>
 </table>
