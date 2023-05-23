@@ -6,7 +6,7 @@ title: Deep Learning Short Course
 ## DSI-Africa Deep Learning Short Course: UKZN Hub
 
 ### BootCamp (19-23 June 2023)
-#### please use the following link: [ZOOM LINK](link will be provided later).
+#### Please use the following link: [ZOOM LINK](link will be provided later).
 * Inroduction to Epidemiology/Global Health and Health Data Science.
 * Introduction to Python and Juputer Notebook.
 * Introduction to PyTorch.
