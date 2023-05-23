@@ -1,16 +1,23 @@
 ---
 layout: frontpage
-title: Machine Learning Short Course
+title: Deep Learning Short Course
 ---
 
-## DSI-Africa Machine Learning Short Course: UKZN Hub
+## DSI-Africa Deep Learning Short Course: UKZN Hub
+
+### BootCamp (19-23 June 2023)
+#### please use the following link: [ZOOM LINK](link will be provided later).
+* Inroduction to Epidemiology/Global Health and Health Data Science.
+* Introduction to Python and Juputer Notebook.
+* Introduction to PyTorch.
+* Introduction to Tenserflow.
 
 ### Lectures
 
-* Lectures will be from **Monday, 23 January 2023 – Friday, 3rd February 2023**.
-* We will be using **R** for all programming assignments and projects.
-* Note: all lectures will be held *in-person* AND *online* via Zoom links.
-* For online attendants please use the following link: [ZOOM LINK](https://tinyurl.com/2yxd7pwk).
+* Lectures will be from **Monday, 26 June 2023 – Friday, 06 July 2023**.
+* We will be using **Python** for all programming assignments and projects.
+* Note: all lectures will be held *in-person*.
+
 
 
 ### Schedule
