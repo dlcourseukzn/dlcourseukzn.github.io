@@ -231,7 +231,10 @@ title: Deep Learning Short Course
   </tr>
   <tr>
     <td class="tg-0lax">Lead Facilitator</td>
-    <td class="tg-0lax">Dr. Santiago Romero-Brufau, Harvard T.H Chan School of Public Health</td>
+    <td class="tg-0lax">Dr. Santiago Romero-Brufau
+Department of Otorhinolaryngology Head & Neck Surgery, Mayo Clinic
+Department of Biostatistics, Harvard T.H. Chan School of Public Health
+</td>
     <td class="tg-0lax"><a href="mailto:santiagoromerobrufau@hsph.harvard.edu">santiagoromerobrufau@hsph.harvard.edu</a><br></td>
     <td class="tg-0lax">Santiago Romero-Brufau MD, PhD has a background in Medicine, Healthcare Systems Engineering, Informatics and Health Data Science. He is Assistant Professor of Otorhinolaryngology, and Healthcare Systems Engineering at Mayo Clinic. He is also Adjunct Assistant Professor of Biostatistics at the Harvard T. H. Chan School of Public Health, where he serves in the executive committee and teaches two of the core courses in the Master’s in Health Data Science. Dr. Romero-Brufau’s work is centered on developing and implementing machine-learning models and other data science solutions into clinical practice. His focus is on real-world applications as well as how to integrate advanced solutions into the clinical workflow and bridging the gap between model development and clinical and public health impact.</td>
     <td class="tg-0lax"><img src="figures/santiago.jpg" width="1000" height="1000" alt="Santiago"/></td>
