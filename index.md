@@ -325,14 +325,14 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Dr Ashenafi Yirga, DS-I Africa Postdoc</td>
     <td class="tg-0lax"><a href="mailto:yirgaa@ukzn.ac.za">yirgaa@ukzn.ac.za</a><br></td>
     <td class="tg-0lax">scholar as part of the DS-I Africa Trainee program. He obtained his BSc degree in Statistics from Addis Ababa University, Ethiopia. He completed his BSc Honors degree, Master of Science, and Ph.D. in Statistics at the University of KwaZulu-Natal, South Africa. Ashenafi authored several articles, seven of which have been published in ISI-indexed and/or Q1-rated journals. Throughout his postgraduate study years, he consulted and worked as an assistant lecturer for undergraduate and postgraduate students. He also presented his work locally and internationally at conferences and attended several workshops and courses. Ashenafi is interested in being involved in biomedical, nutrition, HIV/AIDS and/or infectious diseases, socio-economical, demographic, epidemiological studies, and health data science in general. He is particularly interested in contributing to the growing body of research on public health that will improve the quality of life of affected individuals and the population at large.</td>
-    <td class="tg-0lax"><img src="figures/Mohanad_Mohammed.jpg" width="1000" height="1000" alt="Ashu"/></td>
+    <td class="tg-0lax"><img src="figures/Ashu.PNG" width="1000" height="1000" alt="Ashu"/></td>
   </tr>
   <tr>
     <td class="tg-0lax">Teaching Assistant</td>
     <td class="tg-0lax">Dr Kennedy Chengata, School of Maths, Stats and Computer Science</td>
     <td class="tg-0lax"><a href="mailto:"></a><br></td>
     <td class="tg-0lax">Kennedy is a PostDoc Researcher in Climate Change AI focusing on Renewable Energy. He holds Phd in Computer Science/Artificial Intelligence and Computer Vision, three masters degrees in Advanced Software Engineering (Leicester, UK), ICT Management(University of Pretoria) and in Finance and Investments (NUST). He is also currently finalising dual Masters in engineering in Telecommunications, Autonomous and Self Driving Cars with University of Cape Town. He has years of FinTech, Automation (IBM, Camunda, Webmethods, Lotus Notes), Artificial Intelligence and Cloud Experience with banks, insurance and oil companies in South Africa and Zimbabwe.</td>
-    <td class="tg-0lax"><img src="figures/Mohanad_Mohammed.jpg" width="1000" height="1000" alt="Mohanad"/></td>
+    <td class="tg-0lax"><img src="figures/Kennedy.PNG" width="1000" height="1000" alt="Kennedy"/></td>
   </tr>
 </tbody>
 </table>
