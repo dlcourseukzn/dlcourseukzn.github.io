@@ -17,7 +17,7 @@ title: Deep Learning Short Course
 
 Below is an outline of the current plan for course topics and schedule. It is intended to serve as guidance, the specific topics and schedule may change at the decision of the course instructional staff.
 
-#### Bootcamp
+#### Virtual BootCamp
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -71,7 +71,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
 </tbody>
 </table>
 
-#### Week 1:
+#### In-Person - Week 1
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -163,7 +163,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 
 
-#### Week 2:
+#### In-Person - Week 2
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
