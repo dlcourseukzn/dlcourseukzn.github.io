@@ -13,9 +13,7 @@ title: Deep Learning Short Course
 * Introduction to Tenserflow.
 
 ### In-Person Deep Learning course: 26 June – 7th July 2023 
-##### Venue:   Elangeni Hotel, 63 Snell Parade, North Beach, Durban, 4001
-    (https://www.southernsun.com/southern-sun-elangeni-maharani)
-
+##### Venue:   [Elangeni Hotel](https://www.southernsun.com/southern-sun-elangeni-maharani), 63 Snell Parade, North Beach, Durban, 4001
 * Lectures will be from **Monday, 26 June 2023 – Friday, 06 July 2023**.
 * We will be using **Python** for all programming assignments and projects.
 * Note: all lectures will be held *in-person*.
