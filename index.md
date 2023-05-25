@@ -22,6 +22,8 @@ title: Deep Learning Short Course
 
 ### Schedule
 
+Below is an outline of the current plan for course topics and schedule. It is intended to serve as guidance, the specific topics and schedule may change at the decision of the course instructional staff.
+
 
 #### Week 1:
 
