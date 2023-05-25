@@ -320,6 +320,20 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Mohanad Mohammed earned his PhD from the School of Mathematics, Statistics, and Computer Science (SMSCS), specializing in Statistics at the University of KwaZulu-Natal (UKZN) in 2022. During his MSc and PhD studies, he worked as a tutor and an Adhoc lecturer in SMSCS at the same university, which continued from 2019 to 2022. He is currently a post-doc fellow working on a health data science project hosted by UKZN in collaboration with Harvard T. H. Chan, School of Public Health, USA, and Heidelberg University and Germany. His research has focused on developing and applying statistical methods in genomics, genetics, public health, and the environment. He is interested in contributing to a deeper understanding of cancer disease modeling using gene expression data to facilitate decision-making concerning diagnosis, treatment, and care. In addition, Mohammed has authored and co-authored many articles, ten of which have been published in reputable journals and conference papers. He has attended and presented at various international and local workshops and conferences and is an active member of the biostatistics team under the MASAMU program.</td>
     <td class="tg-0lax"><img src="figures/Mohanad_Mohammed.jpg" width="1000" height="1000" alt="Mohanad"/></td>
   </tr>
+  <tr>
+    <td class="tg-0lax">Teaching Assistant</td>
+    <td class="tg-0lax">Dr Ashenafi Yirga, DS-I Africa Postdoc</td>
+    <td class="tg-0lax"><a href="mailto:yirgaa@ukzn.ac.za">yirgaa@ukzn.ac.za</a><br></td>
+    <td class="tg-0lax">scholar as part of the DS-I Africa Trainee program. He obtained his BSc degree in Statistics from Addis Ababa University, Ethiopia. He completed his BSc Honors degree, Master of Science, and Ph.D. in Statistics at the University of KwaZulu-Natal, South Africa. Ashenafi authored several articles, seven of which have been published in ISI-indexed and/or Q1-rated journals. Throughout his postgraduate study years, he consulted and worked as an assistant lecturer for undergraduate and postgraduate students. He also presented his work locally and internationally at conferences and attended several workshops and courses. Ashenafi is interested in being involved in biomedical, nutrition, HIV/AIDS and/or infectious diseases, socio-economical, demographic, epidemiological studies, and health data science in general. He is particularly interested in contributing to the growing body of research on public health that will improve the quality of life of affected individuals and the population at large.</td>
+    <td class="tg-0lax"><img src="figures/Mohanad_Mohammed.jpg" width="1000" height="1000" alt="Ashu"/></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Teaching Assistant</td>
+    <td class="tg-0lax">Dr Kennedy Chengata, School of Maths, Stats and Computer Science</td>
+    <td class="tg-0lax"><a href="mailto:"></a><br></td>
+    <td class="tg-0lax">Kennedy is a PostDoc Researcher in Climate Change AI focusing on Renewable Energy. He holds Phd in Computer Science/Artificial Intelligence and Computer Vision, three masters degrees in Advanced Software Engineering (Leicester, UK), ICT Management(University of Pretoria) and in Finance and Investments (NUST). He is also currently finalising dual Masters in engineering in Telecommunications, Autonomous and Self Driving Cars with University of Cape Town. He has years of FinTech, Automation (IBM, Camunda, Webmethods, Lotus Notes), Artificial Intelligence and Cloud Experience with banks, insurance and oil companies in South Africa and Zimbabwe.</td>
+    <td class="tg-0lax"><img src="figures/Mohanad_Mohammed.jpg" width="1000" height="1000" alt="Mohanad"/></td>
+  </tr>
 </tbody>
 </table>
 
