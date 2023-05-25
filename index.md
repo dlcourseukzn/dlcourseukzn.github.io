@@ -24,6 +24,59 @@ title: Deep Learning Short Course
 
 Below is an outline of the current plan for course topics and schedule. It is intended to serve as guidance, the specific topics and schedule may change at the decision of the course instructional staff.
 
+#### Bootcamp
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm">Date</th>
+    <th class="tg-amwm">Type</th>
+    <th class="tg-amwm">Topic</th>
+    <th class="tg-amwm">Facilitator</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-amwm">Monday, 19 June 2023</td>
+    <td class="tg-0lax">Lecture</td>
+    <td class="tg-0lax">Introduction to epidemiology/global health and health data science</td>
+    <td class="tg-0lax">Prof. Palwasha Khan, Dr Stephen Olivier</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">Tuesday, 20 June 2023</td>
+    <td class="tg-0lax">Lecture</td>
+    <td class="tg-0lax">Introduction to epidemiology/global health and health data science</td>
+    <td class="tg-0lax">Prof. Palwasha Khan, Dr Stephen Olivier</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">Wednesday, 21 June 2023</td>
+    <td class="tg-0lax">Lecture</td>
+    <td class="tg-0lax">Introduction to Python and Jupyter Notebooks</td>
+    <td class="tg-0lax">Dr Mandlenkosi Gwetu, Dr Kennedy Chengeta</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">Thursday, 22 June 2023</td>
+    <td class="tg-0lax">Lecture</td>
+    <td class="tg-0lax">Introduction to Python and Jupyter Notebooks</td>
+    <td class="tg-0lax">Dr Mandlenkosi Gwetu, Dr Kennedy Chengeta</td>
+  </tr>
+  <tr>
+     <td class="tg-amwm">Friday, 23 June 2023</td>
+    <td class="tg-0lax">Lecture</td>
+    <td class="tg-0lax">Introduction to Python and Jupyter Notebooks</td>
+    <td class="tg-0lax">Dr Mandlenkosi Gwetu, Dr Kennedy Chengeta</td>
+  </tr>
+</tbody>
+</table>
 
 #### Week 1:
 
