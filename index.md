@@ -6,17 +6,10 @@ title: Deep Learning Short Course
 ## DSI-Africa Deep Learning Short Course: UKZN Hub
 
 ### Virtual BootCamp: 19-23 June 2023
-#### Please use the following link: [ZOOM LINK](link will be provided later).
-* Inroduction to Epidemiology/Global Health and Health Data Science.
-* Introduction to Python and Juputer Notebook.
-* Introduction to PyTorch.
-* Introduction to Tenserflow.
+##### Please use the following link: [ZOOM LINK](link will be provided later).
 
 ### In-Person Deep Learning course: 26 June – 7th July 2023 
 ##### Venue:   [Elangeni Hotel](https://www.southernsun.com/southern-sun-elangeni-maharani), 63 Snell Parade, North Beach, Durban, 4001
-* Lectures will be from **Monday, 26 June 2023 – Friday, 07 July 2023**.
-* We will be using **Python** for all programming assignments and projects.
-* Note: all lectures will be held *in-person*.
 
 
 
