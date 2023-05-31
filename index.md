@@ -8,7 +8,7 @@ title: Deep Learning Short Course
 ### Virtual BootCamp: 19 – 23 June 2023
 ##### Please use the following link: [ZOOM LINK](link will be provided later).
 
-### In-Person Deep Learning course: 26 June – 7th July 2023 
+### In-Person Deep Learning Course: 26 June – 7th July 2023 
 ##### Venue:   [Elangeni Hotel](https://www.southernsun.com/southern-sun-elangeni-maharani), 63 Snell Parade, North Beach, Durban, 4001
 
 
