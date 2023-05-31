@@ -5,6 +5,8 @@ title: Deep Learning Short Course
 
 ## DSI-Africa Deep Learning Short Course: UKZN Hub
 
+* Note: all lectures will from 9:00 AM - 4:30 PM for both *Virtual BootCamp* AND *in-person*.
+
 ### Virtual BootCamp: 19 – 23 June 2023
 ##### Please use the following link: [ZOOM LINK](https://ukzn.zoom.us/j/98032587955?pwd=TnkzUHpvc0txMTA1WWViNVZseTVEdz09).
 
