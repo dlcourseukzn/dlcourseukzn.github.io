@@ -114,6 +114,9 @@ Below is an outline of the current plan for course topics and schedule. It is in
   
   <table id="inperson">
   <tr>
+    <th colspan="7">Week 1</th>
+  </tr>
+  <tr>
     <th>Time</th>
     <th>Monday 26/06</th>
     <th>Tuesday 27/06</th>
