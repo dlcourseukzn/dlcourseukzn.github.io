@@ -22,22 +22,43 @@ Below is an outline of the current plan for course topics and schedule. It is in
 <html>
 <head>
 <style>
-#virtual, #inperson {
+#virtual {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+  
+#inperson {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
 
-#virtual td, , #inperson td, #virtual th, , #inperson th {
+#virtual td, #virtual th, {
   border: 1px solid #ddd;
   padding: 8px;
 }
 
-#virtual tr, #inperson tr:nth-child(even){background-color: #f2f2f2;}
+#inperson td, #inperson th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
 
-#virtual tr, #inperson tr:hover {background-color: #ddd;}
+#virtual tr:nth-child(even){background-color: #f2f2f2;}
+#inperson tr:nth-child(even){background-color: #f2f2f2;}
 
-#virtual th, #inperson th {
+#virtual tr:hover {background-color: #ddd;}
+#inperson tr:hover {background-color: #ddd;}
+
+#virtual th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #04AA6D;
+  color: white;
+}
+  
+#inperson th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: center;
