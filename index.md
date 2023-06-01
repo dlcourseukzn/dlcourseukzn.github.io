@@ -22,22 +22,22 @@ Below is an outline of the current plan for course topics and schedule. It is in
 <html>
 <head>
 <style>
-#virtual {
+#virtual, #inperson {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
 
-#virtual td, #virtual th {
+#virtual td, , #inperson td, #virtual th, , #inperson th {
   border: 1px solid #ddd;
   padding: 8px;
 }
 
-#virtual tr:nth-child(even){background-color: #f2f2f2;}
+#virtual tr, #inperson tr:nth-child(even){background-color: #f2f2f2;}
 
-#virtual tr:hover {background-color: #ddd;}
+#virtual tr, #inperson tr:hover {background-color: #ddd;}
 
-#virtual th {
+#virtual th, #inperson th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: center;
@@ -88,6 +88,92 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td>Dr. Mandlenkosi Gwetu & Dr. Kennedy Chengeta</td>
   </tr>
 </table>
+  
+ <h3>In-Person</h3>
+  
+  <table id="inperson">
+  <tr>
+    <th>Time</th>
+    <th>Monday 26/06</th>
+    <th>Tuesday 27/06</th>
+    <th>Wednesday 28/06</th>
+    <th>Thursday 29/06</th>
+    <th>Friday 30/06</th>
+    <th>Saturday 01/07</th>
+  </tr>
+  <tr>
+    <td>9:00-10:30 am</td>
+    <td>Introduction to Deep Learning</td>
+    <td>Introduction to Backpropagation and Multilayer Perceptrons (MLPs)</td>
+    <td>MLPs in Python with Keras, Regularization</td>
+    <td>Introduction to Convulutional Neural Networks (CNNs)</td>
+    <td>CNNs Basics, Fine Tuning and Visualzing the CNNs Model</td>
+    <td>Group Discussion & Mini Project (in Global Health and Climate Change)</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">10:30-11:00</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">11:00-12:30</td>
+    <td class="tg-0lax">Deep Learning vs Machine Learning, Unsupoervised Machine Learning</td>
+    <td class="tg-0lax">Activation Functions</td>
+    <td class="tg-0lax">MLPs in Python with Keras, Regularization</td>
+    <td class="tg-0lax">Convlution, Pooling, and Fully Connected Layers</td>
+    <td class="tg-0lax">CNNs Basics, Fine Tuning and Visualzing the CNNs Model</td>
+    <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">12:30-13:30</td>
+    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Lunch</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">13:30-14:30</td>
+    <td class="tg-0lax">Neural Networks Architecture Basics</td>
+    <td class="tg-0lax">Regularization Techniques</td>
+    <td class="tg-0lax">MLPs in Python with Keras, Regularization</td>
+    <td class="tg-0lax">Data Agumentation using Pretrained Networks</td>
+    <td class="tg-0lax">Training and Testing Models on Sample Datasets</td>
+    <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">14:30-14:45</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">14:45-16:00 </td>
+    <td class="tg-0lax">Simple Example of Deep Learning in Global Health Research</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
+  </tr>
+  <tr>
+    <td><b>16:00-16:30</b></td>
+    <td>office hours</td>
+    <td>office hours</td>
+    <td>office hours</td>
+    <td>office hours</td>
+    <td>office hours</td>
+    <td>office hours</td>
+  </tr>
+</table>
 
 </body>
 </html>
@@ -95,57 +181,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 =======================================
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-amwm">Date</th>
-    <th class="tg-amwm">Type</th>
-    <th class="tg-amwm">Topic</th>
-    <th class="tg-amwm">Facilitator</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-amwm">Monday, 19 June 2023</td>
-    <td class="tg-0lax">Lecture</td>
-    <td class="tg-0lax">Introduction to epidemiology/global health and health data science</td>
-    <td class="tg-0lax">Prof. Palwasha Khan, Dr Stephen Olivier</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">Tuesday, 20 June 2023</td>
-    <td class="tg-0lax">Lecture</td>
-    <td class="tg-0lax">Introduction to epidemiology/global health and health data science</td>
-    <td class="tg-0lax">Prof. Palwasha Khan, Dr Stephen Olivier</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">Wednesday, 21 June 2023</td>
-    <td class="tg-0lax">Lecture</td>
-    <td class="tg-0lax">Introduction to Python and Jupyter Notebooks</td>
-    <td class="tg-0lax">Dr Mandlenkosi Gwetu, Dr Kennedy Chengeta</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">Thursday, 22 June 2023</td>
-    <td class="tg-0lax">Lecture</td>
-    <td class="tg-0lax">Introduction to Python and Jupyter Notebooks</td>
-    <td class="tg-0lax">Dr Mandlenkosi Gwetu, Dr Kennedy Chengeta</td>
-  </tr>
-  <tr>
-     <td class="tg-amwm">Friday, 23 June 2023</td>
-    <td class="tg-0lax">Lecture</td>
-    <td class="tg-0lax">Introduction to Python and Jupyter Notebooks</td>
-    <td class="tg-0lax">Dr Mandlenkosi Gwetu, Dr Kennedy Chengeta</td>
-  </tr>
-</tbody>
-</table>
+
 
 #### In-Person - Week 1
 
