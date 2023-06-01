@@ -35,7 +35,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
 }
 
 #virtual td, #virtual th, {
-  border: 1px solid #ddd;
+  border: 2px solid #ddd;
   padding: 8px;
 }
 
