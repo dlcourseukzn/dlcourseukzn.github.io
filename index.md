@@ -8,11 +8,11 @@ title: Deep Learning Short Course
 <h4 style="background-color:Tomato; color:white;"> Note: All lectures will start from 9:00 AM - 4:30 PM for both <i lang="la">Virtual BootCamp</i> AND <i lang="la">In-Person</i>. </h4>
 
 <h2 style="background-color:white; color:black; text-align: left;"> Virtual BootCamp: 19 – 23 June 2023 </h2>
-<h4 style="background-color:white; color:black; text-align: left;"> Please use the following link: [ZOOM LINK](https://ukzn.zoom.us/j/98032587955?pwd=TnkzUHpvc0txMTA1WWViNVZseTVEdz09). <a href="https://ukzn.zoom.us/j/98032587955?pwd=TnkzUHpvc0txMTA1WWViNVZseTVEdz09"><span style="text-align:center">ZOOM LINK</span></a>
+<h4 style="background-color:white; color:black; text-align: left;"> Please use the following link: <a href="https://ukzn.zoom.us/j/98032587955?pwd=TnkzUHpvc0txMTA1WWViNVZseTVEdz09"><span style="text-align:center">ZOOM LINK</span></a>.
  </h4>
 
 <h2 style="background-color:white; color:black; text-align: left;"> In-Person Deep Learning Course: 26 June – 7th July 2023 </h2> 
-<h4 style="background-color:white; color:black; text-align: left;"> Venue:   [Elangeni Hotel](https://www.southernsun.com/southern-sun-elangeni-maharani), 63 Snell Parade, North Beach, Durban, 4001. </h4>
+<h4 style="background-color:white; color:black; text-align: left;"> Venue: <a href="https://www.southernsun.com/southern-sun-elangeni-maharani"><span style="text-align:center">Elangeni Hotel</span></a>, 63 Snell Parade, North Beach, Durban, 4001. </h4>
 
 
 
@@ -55,37 +55,37 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 <table id="customers">
   <tr>
-    <th>Date</th>
-    <th>Type</th>
-    <th>Topic</th>
-    <th>Facilitator</th>
+    <th class="tg-amwm">Date</th>
+    <th class="tg-amwm">Type</th>
+    <th class="tg-amwm">Topic</th>
+    <th class="tg-amwm">Facilitator</th>
   </tr>
   <tr>
-    <td>Monday, 19 June 2023</td>
+    <td class="tg-amwm">Monday, 19 June 2023</td>
     <td>Lecture</td>
     <td>Introduction to epidemiology/global health and health data science</td>
     <td>Dr. Palwasha Khan & Dr. Stephen Olivier</td>
   </tr>
   <tr>
-    <td>Tuesday, 20 June 2023</td>
+    <td class="tg-amwm">Tuesday, 20 June 2023</td>
     <td>Lecture</td>
     <td>Introduction to epidemiology/global health and health data science</td>
     <td>Dr. Palwasha Khan & Dr. Stephen Olivier</td>
   </tr>
   <tr>
-    <td>Wednesday, 21 June 2023</td>
+    <td class="tg-amwm">Wednesday, 21 June 2023</td>
     <td>Lecture</td>
     <td>Introduction to Python and Jupyter Notebooks</td>
     <td>Dr. Mandlenkosi Gwetu & Dr. Kennedy Chengeta</td>
   </tr>
   <tr>
-    <td>Thursday, 22 June 2023</td>
+    <td class="tg-amwm">Thursday, 22 June 2023</td>
     <td>Lecture</td>
     <td>Introduction to Python and Jupyter Notebooks</td>
     <td>Dr. Mandlenkosi Gwetu & Dr. Kennedy Chengeta</td>
   </tr>
   <tr>
-    <td>Friday, 23 June 2023</td>
+    <td class="tg-amwm">Friday, 23 June 2023</td>
     <td>Lecture</td>
     <td>Introduction to Python and Jupyter Notebooks</td>
     <td>Dr. Mandlenkosi Gwetu & Dr. Kennedy Chengeta</td>
