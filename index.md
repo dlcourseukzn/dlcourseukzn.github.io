@@ -50,7 +50,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
 </head>
 <body>
 
-<h1>A Fancy Table</h1>
+<h3>Virtual BootCamp</h3>
 
 <table id="customers">
   <tr>
