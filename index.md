@@ -15,7 +15,7 @@ title: Deep Learning Short Course
 
 
 
-### Schedule
+<h2 style="background-color:white; color:black; text-align: left;"> Schedule </h2>
 
 Below is an outline of the current plan for course topics and schedule. It is intended to serve as guidance, the specific topics and schedule may change at the decision of the course instructional staff.
 
