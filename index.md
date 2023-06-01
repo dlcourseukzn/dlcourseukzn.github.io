@@ -194,6 +194,14 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td>office hours</td>
     <td>office hours</td>
   </tr>
+  <tr>
+    <th class="tg-amwm">Time</th>
+    <th class="tg-amwm">Monday 03/07</th>
+    <th class="tg-amwm">Tuesday 04/07</th>
+    <th class="tg-amwm">Wednesday 05/07</th>
+    <th class="tg-amwm">Thursday 06/07</th>
+    <th class="tg-amwm">Friday 07/07</th>
+  </tr>
 </table>
 
 </body>
