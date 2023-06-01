@@ -204,7 +204,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <th class="tg-amwm">Saturday 08/07</th>
   </tr>
   <tr>
-    <td class="tg-amwm">9:00-10:30 am</td>
+    <td class="tg-amwm">9:00-10:30</td>
     <td class="tg-0lax">Introduction to Recurrent Neural Networks (RNNs)</td>
     <td class="tg-0lax">RNNs Basics</td>
     <td class="tg-0lax">RNNs Basics Continued (LSTM)</td>
@@ -212,23 +212,15 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Project Competition</td>
   </tr>
   <tr>
-    <td class="tg-amwm">9:00-10:30 am</td>
-    <td class="tg-0lax">Introduction to Recurrent Neural Networks (RNNs)</td>
-    <td class="tg-0lax">RNNs Basics</td>
-    <td class="tg-0lax">RNNs Basics Continued (LSTM)</td>
-    <td class="tg-0lax">Introduction to Transformers and Transfer Learning</td>
-    <td class="tg-0lax">Project Competition</td>
+    <td class="tg-amwm">10:30-11:00</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
   </tr>
   <tr>
-    <td class="tg-amwm">10:30-10:45 am</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">10:45-12:00 pm</td>
+    <td class="tg-amwm">11:00-12:30</td>
     <td class="tg-0lax">Overview of Different Types of RNNs</td>
     <td class="tg-0lax">RNNs Basics</td>
     <td class="tg-0lax">LSTM and GRU cells</td>
@@ -236,7 +228,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Project Competition</td>
   </tr>
   <tr>
-    <td class="tg-amwm">12:00-1:00 pm</td>
+    <td class="tg-amwm">12:30-13:30</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
     <td class="tg-0lax">Lunch</td>
@@ -244,7 +236,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Lunch</td>
   </tr>
   <tr> 
-    <td class="tg-amwm">1:00-2:15 pm</td>
+    <td class="tg-amwm">13:30-14:30</td>
     <td class="tg-0lax">Basic Structure of RNNs and How they Work</td>
     <td class="tg-0lax">Gradient Flow and Backpropagation through Time (BPTT)</td>
     <td class="tg-0lax">Implementing a Simple RNN in Python (Tenserflow)</td>
@@ -252,19 +244,27 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Course Evaluation</td>
   </tr>
   <tr>
-    <td class="tg-amwm">2:15-2:30 pm</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
-    <td class="tg-0lax">Break</td>
+    <td class="tg-amwm">14:30-14:45</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
   </tr>
   <tr> 
-    <td class="tg-amwm">2:30-3:45 pm</td>
+    <td class="tg-amwm">14:45-16:00</td>
     <td class="tg-0lax">Applications of RNNs in Global Health Research</td>
     <td class="tg-0lax">Lab Session</td>
     <td class="tg-0lax">Lab Session</td>
     <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Closing Ceremony</td>
+  </tr>
+  <tr> 
+    <td class="tg-amwm">16:00-16:30 pm</td>
+    <td class="tg-0lax">Office Hours</td>
+    <td class="tg-0lax">Office Hours</td>
+    <td class="tg-0lax">Office Hours</td>
+    <td class="tg-0lax">Office Hours</td>
     <td class="tg-0lax">Closing Ceremony</td>
   </tr>
 </table>
