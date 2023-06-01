@@ -21,6 +21,82 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 #### Virtual BootCamp
 
+<html>
+<head>
+<style>
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<h1>A Fancy Table</h1>
+
+<table id="customers">
+  <tr>
+    <th>Date</th>
+    <th>Type</th>
+    <th>Topic</th>
+    <th>Facilitator</th>
+  </tr>
+  <tr>
+    <td>Monday, 19 June 2023</td>
+    <td>Lecture</td>
+    <td>Introduction to epidemiology/global health and health data science</td>
+    <td>Dr. Palwasha Khan & Dr. Stephen Olivier</td>
+  </tr>
+  <tr>
+    <td>Tuesday, 20 June 2023</td>
+    <td>Lecture</td>
+    <td>Introduction to epidemiology/global health and health data science</td>
+    <td>Dr. Palwasha Khan & Dr. Stephen Olivier</td>
+  </tr>
+  <tr>
+    <td>Wednesday, 21 June 2023</td>
+    <td>Lecture</td>
+    <td>Introduction to Python and Jupyter Notebooks</td>
+    <td>Dr. Mandlenkosi Gwetu & Dr. Kennedy Chengeta</td>
+  </tr>
+  <tr>
+    <td>Thursday, 22 June 2023</td>
+    <td>Lecture</td>
+    <td>Introduction to Python and Jupyter Notebooks</td>
+    <td>Dr. Mandlenkosi Gwetu & Dr. Kennedy Chengeta</td>
+  </tr>
+  <tr>
+    <td>Friday, 23 June 2023</td>
+    <td>Lecture</td>
+    <td>Introduction to Python and Jupyter Notebooks</td>
+    <td>Dr. Mandlenkosi Gwetu & Dr. Kennedy Chengeta</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
+=======================================
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
