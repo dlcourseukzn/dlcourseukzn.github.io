@@ -123,7 +123,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <th>Saturday 01/07</th>
   </tr>
   <tr>
-    <td>9:00-10:30 am</td>
+    <td>9:00-10:30</td>
     <td>Introduction to Deep Learning</td>
     <td>Introduction to Backpropagation and Multilayer Perceptrons (MLPs)</td>
     <td>MLPs in Python with Keras, Regularization</td>
