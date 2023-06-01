@@ -55,37 +55,37 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 <table id="customers">
   <tr>
-    <th>Date</th>
-    <th>Type</th>
-    <th>Topic</th>
-    <th>Facilitator</th>
+    <th><b>Date</b></th>
+    <th><b>Type</b></th>
+    <th><b>Topic</b></th>
+    <th><b>Facilitator(s)</b></th>
   </tr>
   <tr>
-    <td>Monday, 19 June 2023</td>
+    <td><b>Monday, 19 June 2023</b></td>
     <td>Lecture</td>
     <td>Introduction to epidemiology/global health and health data science</td>
     <td>Dr. Palwasha Khan & Dr. Stephen Olivier</td>
   </tr>
   <tr>
-    <td>Tuesday, 20 June 2023</td>
+    <td><b>Tuesday, 20 June 2023</b></td>
     <td>Lecture</td>
     <td>Introduction to epidemiology/global health and health data science</td>
     <td>Dr. Palwasha Khan & Dr. Stephen Olivier</td>
   </tr>
   <tr>
-    <td>Wednesday, 21 June 2023</td>
+    <td><b>Wednesday, 21 June 2023</b></td>
     <td>Lecture</td>
     <td>Introduction to Python and Jupyter Notebooks</td>
     <td>Dr. Mandlenkosi Gwetu & Dr. Kennedy Chengeta</td>
   </tr>
   <tr>
-    <td>Thursday, 22 June 2023</td>
+    <td><b>Thursday, 22 June 2023</b></td>
     <td>Lecture</td>
     <td>Introduction to Python and Jupyter Notebooks</td>
     <td>Dr. Mandlenkosi Gwetu & Dr. Kennedy Chengeta</td>
   </tr>
   <tr>
-    <td>Friday, 23 June 2023</td>
+    <td><b>Friday, 23 June 2023</b></td>
     <td>Lecture</td>
     <td>Introduction to Python and Jupyter Notebooks</td>
     <td>Dr. Mandlenkosi Gwetu & Dr. Kennedy Chengeta</td>
