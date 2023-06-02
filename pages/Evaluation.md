@@ -5,21 +5,12 @@ title: Evaluation
 
 
 <html>
-<head>
-<style>
-.dot {
-  height: 25px;
-  width: 25px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-}
-</style>
-</head>
 <body>
 
-<span class="dot"><h4> Please participate in a very brief survey (about 10 minutes). </h4></span> 
-<h4> Your feedback will improve our delivery of the future courses. </h4>
+  <ul>
+      <li>Please participate in a very brief survey (about 10 minutes).</li>
+      <li>Your feedback will improve our delivery of the future courses.</li>
+    </ul>
 
   </body>
 </html>
