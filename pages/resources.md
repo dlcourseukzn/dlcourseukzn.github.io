@@ -35,8 +35,6 @@ title: Resources
 </head>
 <body>
 
-<h4>Python Packages</h4>
-
 <table id="pythonpackages">
   <tr>
     <th>Package</th>
