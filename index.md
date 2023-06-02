@@ -222,3 +222,119 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 
 
+
+
+<html>
+<head>
+<style>
+#inpersonw2 {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#inpersonw2 td, #inpersonw2 th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#inpersonw2 tr:nth-child(even){background-color: #f2f2f2;}
+
+#inpersonw2 tr:hover {background-color: #ddd;}
+
+#inpersonw2 th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<h3>In-Person Lectures</h3>
+
+<table id="inpersonw2">
+  <tr>
+    <th class="tg-amwm">Time</th>
+    <th class="tg-amwm">Monday 03/07</th>
+    <th class="tg-amwm">Tuesday 04/07</th>
+    <th class="tg-amwm">Wednesday 05/07</th>
+    <th class="tg-amwm">Thursday 06/07</th>
+    <th class="tg-amwm">Friday 07/07</th>
+    <th class="tg-amwm">Saturday 08/07</th>
+  </tr>
+  <tr>
+    <td class="tg-amwm">9:00-10:30</td>
+    <td class="tg-0lax">Introduction to Recurrent Neural Networks (RNNs)</td>
+    <td class="tg-0lax">RNNs Basics</td>
+    <td class="tg-0lax">RNNs Basics Continued (LSTM)</td>
+    <td class="tg-0lax">Introduction to Transformers and Transfer Learning</td>
+    <td class="tg-0lax">Project Competition</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">10:30-11:00</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">11:00-12:30</td>
+    <td class="tg-0lax">Overview of Different Types of RNNs</td>
+    <td class="tg-0lax">RNNs Basics</td>
+    <td class="tg-0lax">LSTM and GRU cells</td>
+    <td class="tg-0lax">Introduction to Transformers and Transfer Learning</td>
+    <td class="tg-0lax">Project Competition</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">12:30-13:30</td>
+    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Lunch</td>
+  </tr>
+  <tr> 
+    <td class="tg-amwm">13:30-14:30</td>
+    <td class="tg-0lax">Basic Structure of RNNs and How they Work</td>
+    <td class="tg-0lax">Gradient Flow and Backpropagation through Time (BPTT)</td>
+    <td class="tg-0lax">Implementing a Simple RNN in Python (Tenserflow)</td>
+    <td class="tg-0lax">Pre-Trained Models, Fine-Tuning</td>
+    <td class="tg-0lax">Course Evaluation</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm">14:30-14:45</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Tea Break</td>
+  </tr>
+  <tr> 
+    <td class="tg-amwm">14:45-16:00</td>
+    <td class="tg-0lax">Applications of RNNs in Global Health Research</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Closing Ceremony</td>
+  </tr>
+  <tr> 
+    <td class="tg-amwm">16:00-16:30 pm</td>
+    <td class="tg-0lax">Office Hours</td>
+    <td class="tg-0lax">Office Hours</td>
+    <td class="tg-0lax">Office Hours</td>
+    <td class="tg-0lax">Office Hours</td>
+    <td class="tg-0lax">Closing Ceremony</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
+
+
+
