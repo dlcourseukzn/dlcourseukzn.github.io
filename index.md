@@ -133,7 +133,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 <table id="inpersonw1">
   <tr>
-    <th colspan="7" style="background-color: LightSlateGrey;"><b>Week 1</b></th>
+    <th colspan="7" style="background-color: LightSlateGrey;"><b><b><b><b>Week 1</b></b></b></b></th>
   </tr>
   <tr>
     <th>Time</th>
@@ -259,7 +259,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 <table id="inpersonw2">
   <tr>
-    <th colspan="6"><b>Week 2</b></th>
+    <th colspan="6" style="background-color: LightSlateGrey;"><b><b><b><b>Week 2</b></b></b></b></th>
   </tr>
   <tr>
     <th class="tg-amwm"><b>Time</b></th>
