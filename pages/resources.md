@@ -41,16 +41,24 @@ title: Resources
     <th>Description</th>
   </tr>
   <tr>
-    <td>Tensorflow</td>
-    <td>.........</td>
-  </tr>
-  <tr>
-    <td>Keras</td>
-    <td>..........</td>
-  </tr>
-  <tr>
     <td>numpy</td>
-    <td>...........</td>
+    <td>NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.</td>
+  </tr>
+  <tr>
+    <td>matplotlib</td>
+    <td>Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK.</td>
+  </tr>
+  <tr>
+    <td>os</td>
+    <td>The OS module in Python provides functions for interacting with the operating system. OS comes under Python's standard utility modules.</td>
+  </tr>
+  <tr>
+    <td>tensorflow</td>
+    <td>TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.</td>
+  </tr>
+  <tr>
+    <td>keras</td>
+    <td>Keras is an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library. Up until version 2.3, Keras supported multiple backends, including TensorFlow, Microsoft Cognitive Toolkit, Theano, and PlaidML.</td>
   </tr>
 </table>
 
