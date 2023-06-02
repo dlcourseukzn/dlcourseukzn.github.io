@@ -9,7 +9,7 @@ title: Evaluation
   
   <ul>
     <li> <h5> Please participate in a very brief survey (about 5 minutes). </h5> </li>
-    <li> <h5 style="background-color:Tomato; color:white; text-align: left;"> Your feedback will improve our delivery of the future courses. </h5> </li>
+    <li> <h5 style="background-color:white; color:red; text-align: left;"> Your feedback will improve our delivery of the future courses. </h5> </li>
     </ul>
 
   </body>
