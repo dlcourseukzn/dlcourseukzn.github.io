@@ -130,59 +130,40 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 <table id="customers">
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th><b>Date</b></th>
+    <th><b>Type</b></th>
+    <th><b>Topic</b></th>
+    <th><b>Facilitator(s)</b></th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td><b>Monday, 19 June 2023</b></td>
+    <td>Lecture</td>
+    <td>Introduction to epidemiology/global health and health data science</td>
+    <td>Dr. Palwasha Khan & Dr. Stephen Olivier</td>
   </tr>
   <tr>
-    <td>Berglunds snabbköp</td>
-    <td>Christina Berglund</td>
-    <td>Sweden</td>
+    <td><b>Tuesday, 20 June 2023</b></td>
+    <td>Lecture</td>
+    <td>Introduction to epidemiology/global health and health data science</td>
+    <td>Dr. Palwasha Khan & Dr. Stephen Olivier</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td><b>Wednesday, 21 June 2023</b></td>
+    <td>Lecture</td>
+    <td>Introduction to Python and Jupyter Notebooks</td>
+    <td>Dr. Mandlenkosi Gwetu & Dr. Kennedy Chengeta</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+    <td><b>Thursday, 22 June 2023</b></td>
+    <td>Lecture</td>
+    <td>Introduction to Python and Jupyter Notebooks</td>
+    <td>Dr. Mandlenkosi Gwetu & Dr. Kennedy Chengeta</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Königlich Essen</td>
-    <td>Philip Cramer</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
-  </tr>
-  <tr>
-    <td>North/South</td>
-    <td>Simon Crowther</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Paris spécialités</td>
-    <td>Marie Bertrand</td>
-    <td>France</td>
+    <td><b>Friday, 23 June 2023</b></td>
+    <td>Lecture</td>
+    <td>Introduction to Python and Jupyter Notebooks</td>
+    <td>Dr. Mandlenkosi Gwetu & Dr. Kennedy Chengeta</td>
   </tr>
 </table>
 
