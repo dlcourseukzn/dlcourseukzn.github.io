@@ -3,8 +3,7 @@ layout: page
 title: Resources 
 --- 
 
-#### Python Packages
-The list of Python packages needed for this course can be found in the table below. 
+<h3> The list of Python packages needed for this course can be found in the table below. </h3>
 
 
 <html>
@@ -36,7 +35,7 @@ The list of Python packages needed for this course can be found in the table bel
 </head>
 <body>
 
-<h1>Python Packages</h1>
+<h4>Python Packages</h4>
 
 <table id="pythonpackages">
   <tr>
