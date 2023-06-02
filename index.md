@@ -19,6 +19,7 @@ title: Deep Learning Short Course
 
 Below is an outline of the current plan for course topics and schedule. It is intended to serve as guidance, the specific topics and schedule may change at the decision of the course instructional staff.
 
+
 <html>
 <head>
 <style>
@@ -28,8 +29,8 @@ Below is an outline of the current plan for course topics and schedule. It is in
   width: 100%;
 }
 
-#virtual td, #virtual th, {
-  border: 2px solid #ddd;
+#virtual td, #virtual th {
+  border: 1px solid #ddd;
   padding: 8px;
 }
 
@@ -40,7 +41,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
 #virtual th {
   padding-top: 12px;
   padding-bottom: 12px;
-  text-align: center;
+  text-align: left;
   background-color: #04AA6D;
   color: white;
 }
@@ -51,84 +52,6 @@ Below is an outline of the current plan for course topics and schedule. It is in
 <h3>Virtual BootCamp</h3>
 
 <table id="virtual">
-  <tr>
-    <th><b>Date</b></th>
-    <th><b>Type</b></th>
-    <th><b>Topic</b></th>
-    <th><b>Facilitator(s)</b></th>
-  </tr>
-  <tr>
-    <td><b>Monday, 19 June 2023</b></td>
-    <td>Lecture</td>
-    <td>Introduction to epidemiology/global health and health data science</td>
-    <td>Dr. Palwasha Khan & Dr. Stephen Olivier</td>
-  </tr>
-  <tr>
-    <td><b>Tuesday, 20 June 2023</b></td>
-    <td>Lecture</td>
-    <td>Introduction to epidemiology/global health and health data science</td>
-    <td>Dr. Palwasha Khan & Dr. Stephen Olivier</td>
-  </tr>
-  <tr>
-    <td><b>Wednesday, 21 June 2023</b></td>
-    <td>Lecture</td>
-    <td>Introduction to Python and Jupyter Notebooks</td>
-    <td>Dr. Mandlenkosi Gwetu & Dr. Kennedy Chengeta</td>
-  </tr>
-  <tr>
-    <td><b>Thursday, 22 June 2023</b></td>
-    <td>Lecture</td>
-    <td>Introduction to Python and Jupyter Notebooks</td>
-    <td>Dr. Mandlenkosi Gwetu & Dr. Kennedy Chengeta</td>
-  </tr>
-  <tr>
-    <td><b>Friday, 23 June 2023</b></td>
-    <td>Lecture</td>
-    <td>Introduction to Python and Jupyter Notebooks</td>
-    <td>Dr. Mandlenkosi Gwetu & Dr. Kennedy Chengeta</td>
-  </tr>
-</table>
-  
- 
-
-</body>
-</html>
-
-
-=======================
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-#customers {
-  font-family: Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-#customers td, #customers th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-
-#customers tr:nth-child(even){background-color: #f2f2f2;}
-
-#customers tr:hover {background-color: #ddd;}
-
-#customers th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: left;
-  background-color: #04AA6D;
-  color: white;
-}
-</style>
-</head>
-<body>
-
-<h1>A Fancy Table</h1>
-
-<table id="customers">
   <tr>
     <th><b>Date</b></th>
     <th><b>Type</b></th>
