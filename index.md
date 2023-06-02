@@ -268,7 +268,6 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <th class="tg-amwm"><b>Wednesday 05/07</b></th>
     <th class="tg-amwm"><b>Thursday 06/07</b></th>
     <th class="tg-amwm"><b>Friday 07/07</b></th>
-    <th class="tg-amwm"><b>Saturday 08/07</b></th>
   </tr>
   <tr>
     <td class="tg-amwm"><b>9:00-10:30</b></td>
