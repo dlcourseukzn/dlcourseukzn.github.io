@@ -5,10 +5,10 @@ title: Contact
 
 <h2> Course content </h2>
 
-<h3> Principal Investigator </h3>
+<h4> Principal Investigator </h4>
 * Prof. Henry Mwambi - <a href="mailto:MwambiH@ukzn.ac.za">MwambiH@ukzn.ac.za</a> <br>
 
-<h3> DSI Postdocs </h3>
+<h4> DSI Postdocs </h4>
 * Dr. Mohanad Mohammed - <a href="mailto:MohammedM1@ukzn.ac.za">MohammedM1@ukzn.ac.za</a> <br>
 * Dr. Gabriel Kallah-Dagadu - <a href="mailto:KallahDagaduG@ukzn.ac.za">KallahDagaduG@ukzn.ac.za</a> <br>
 
