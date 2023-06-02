@@ -8,10 +8,10 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 
 
-##### Week 1 - Materials:
+<h3> Week 1 - Materials </h3>
 
 
-##### Week 2 - Materials:
+<h3> Week 2 - Materials </h3>
 
 
 
