@@ -8,8 +8,8 @@ title: Evaluation
 <body>
 
   <ul>
-      <li>Please participate in a very brief survey (about 10 minutes).</li>
-      <li>Your feedback will improve our delivery of the future courses.</li>
+    <li> <h4> Please participate in a very brief survey (about 10 minutes). </h4> </li>
+    <li> <h4> Your feedback will improve our delivery of the future courses. </h4> </li>
     </ul>
 
   </body>
