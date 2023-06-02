@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Evaluation 
+--- 
 
 Please participate in a very brief survey (about 10 minutes).
 Your feedback will improve our delivery of the future courses.
