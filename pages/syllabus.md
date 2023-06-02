@@ -21,6 +21,3 @@ title: Syllabus
 6.	Properly compare models using appropriate statistical approaches for fair model comparison.
 7.	Interpret deep learning results and write reports on them.
 
-
-#### Course Website
-[GitHub](http://mlcourseukzn.github.io/)
