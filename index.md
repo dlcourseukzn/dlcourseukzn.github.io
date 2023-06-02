@@ -259,7 +259,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 <table id="inpersonw2">
   <tr>
-    <th colspan="7"><b>Week 2</b></th>
+    <th colspan="6"><b>Week 2</b></th>
   </tr>
   <tr>
     <th class="tg-amwm"><b>Time</b></th>
