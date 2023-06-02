@@ -208,7 +208,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
   </tr>
   <tr>
-    <td><b><b>16:00-16:30</b></b></td>
+    <td><b>16:00-16:30</b></td>
     <td>office hours</td>
     <td>office hours</td>
     <td>office hours</td>
