@@ -3,7 +3,7 @@ layout: frontpage
 title: Deep Learning Short Course
 ---
 
-<h1 style="background-color:white; color:black; text-align: center;"> DSI-Africa Deep Learning Short Course: UKZN Hub </h1>
+<h1 style="background-color:white; color:black; text-align: center;"> DSI-Africa Deep Learning Short Course </h1>
 
 <h4 style="background-color:Tomato; color:white; text-align: center;"> Note: All lectures will start from 9:00 AM - 4:30 PM for both <i lang="la">Virtual BootCamp</i> AND <i lang="la">In-Person</i>. </h4> <br>
 
