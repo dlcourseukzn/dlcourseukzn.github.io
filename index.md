@@ -8,10 +8,10 @@ title: Deep Learning Short Course
 <h4 style="background-color:Tomato; color:white; text-align: center;"> Note: All lectures will start from 9:00 AM - 4:30 PM for both <i lang="la">Virtual BootCamp</i> AND <i lang="la">In-Person</i>. </h4> <br>
 
 <h2 style="background-color:white; color:black; text-align: left;"> Virtual BootCamp: 19 – 23 June 2023 </h2>
-<h4 style="background-color:white; color:black; text-align: left;"> Please use the following link: <a href="https://ukzn.zoom.us/j/98032587955?pwd=TnkzUHpvc0txMTA1WWViNVZseTVEdz09"><span style="text-align:center">ZOOM LINK</span></a>. </h4>
+<h4 style="background-color:white; color:black; text-align: left;"> Please use the following link: <a href="https://ukzn.zoom.us/j/98032587955?pwd=TnkzUHpvc0txMTA1WWViNVZseTVEdz09" target="_blank"><span style="text-align:center">ZOOM LINK</span></a>. </h4>
 
 <h2 style="background-color:white; color:black; text-align: left;"> In-Person Deep Learning Course: 26 June – 7th July 2023 </h2> 
-<h4 style="background-color:white; color:black; text-align: left;"> Venue: <a href="https://www.southernsun.com/southern-sun-elangeni-maharani"><span style="text-align:center">Elangeni Hotel</span></a>, 63 Snell Parade, North Beach, Durban, 4001. </h4> <br>
+<h4 style="background-color:white; color:black; text-align: left;"> Venue: <a href="https://www.southernsun.com/southern-sun-elangeni-maharani"><span style="text-align:center" target="_blank">Elangeni Hotel</span></a>, 63 Snell Parade, North Beach, Durban, 4001. </h4> <br>
 
 
 
