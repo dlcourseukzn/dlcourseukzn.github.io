@@ -3,7 +3,10 @@ layout: frontpage
 title: Deep Learning Short Course
 ---
 
-<h1 style="background-color:white; color:black; text-align: center;"> DSI-Africa Deep Learning Short Course </h1>
+<h1 style="background-color:white; color:black; text-align: center;"> Data Science Initiative for Africa (DSI-A) Training Programme </h1>
+
+<h2 style="background-color:white; color:black; text-align: center;"> A Short Course in Deep Learning with a Focus on Health Data Science </h2>
+
 
 <h4 style="background-color:Tomato; color:white; text-align: center;"> Note: All lectures will start from 9:00 AM - 4:30 PM for both <i lang="la">Virtual BootCamp</i> AND <i lang="la">In-Person</i>. </h4> <br>
 
