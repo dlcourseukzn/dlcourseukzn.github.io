@@ -10,6 +10,8 @@ title: Resources
   <span class="blink">blink</span>-182
 </p>
 
+<span style="text-decoration: blink;">Text to blink here</span>
+
 
 <html>
 <head>
