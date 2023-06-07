@@ -33,8 +33,12 @@ title: Resources
 }
 </style>
 </head>
-<body>
+  <link rel="stylesheet" type="text/css" href="stylesheets/style.css" />
 
+<body>
+    <div>
+        <h2>Blink</h2>
+    </div>
 <table id="pythonpackages">
   <tr>
     <th><b>Package</b></th>
