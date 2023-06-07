@@ -3,6 +3,61 @@ layout: frontpage
 title: Deep Learning Short Course
 ---
 
+<html lang="en">
+  
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content=
+        "width=device-width, initial-scale=1.0">
+  
+    <title>Blinking Text</title>
+  
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+  
+        div {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+  
+        h2 {
+            font-size: 5em;
+            font-family: serif;
+            color: #008000;
+            text-align: center;
+            animation: animate 
+                1.5s linear infinite;
+        }
+  
+        @keyframes animate {
+            0% {
+                opacity: 0;
+            }
+  
+            50% {
+                opacity: 0.7;
+            }
+  
+            100% {
+                opacity: 0;
+            }
+        }
+    </style>
+</head>
+  
+<body>
+    <div>
+        <h2>Note: All lectures will start from 9:00 AM - 4:30 PM for both <i lang="la">Virtual BootCamp</i> AND <i lang="la">In-Person</i>.</h2>
+    </div>
+</body>
+  
+</html>
+
 <h1 style="background-color:white; color:black; text-align: center;"> Data Science Initiative for Africa (DSI-A) Training Programme </h1>
 
 <h2 style="background-color:white; color:black; text-align: center;"> A Short Course in Deep Learning with a Focus on Health Data Science </h2>
