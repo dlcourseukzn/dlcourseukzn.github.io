@@ -7,13 +7,14 @@ title: Deep Learning Short Course
   
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content=
-        "width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   
     <style>
   
-         
+         img {
+              max-width: 100%;
+            }
         h3 {
             font-size: 1.6em;
             font-family: serif;
