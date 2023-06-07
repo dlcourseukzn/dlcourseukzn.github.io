@@ -36,14 +36,81 @@ title: Deep Learning Short Course
                 opacity: 0;
             }
         }
+      
+        #virtual {
+                  font-family: Arial, Helvetica, sans-serif;
+                  border-collapse: collapse;
+                  width: 100%;
+                }
+
+        #virtual td, #virtual th {
+          border: 1px solid #ddd;
+          padding: 8px;
+        }
+
+        #virtual tr:nth-child(even){background-color: #f2f2f2;}
+
+        #virtual tr:hover {background-color: #ddd;}
+
+          #virtual th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #b8d064;
+            color: white;
+          }
+
+          #inpersonw1 {
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+          }
+
+          #inpersonw1 td, #inpersonw1 th {
+            border: 1px solid #ddd;
+            padding: 8px;
+          }
+
+          #inpersonw1 tr:nth-child(even){background-color: #f2f2f2;}
+
+          #inpersonw1 tr:hover {background-color: #ddd;}
+
+          #inpersonw1 th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #b8d064;
+            color: white;
+          }
+
+          #inpersonw2 {
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+          }
+
+          #inpersonw2 td, #inpersonw2 th {
+            border: 1px solid #ddd;
+            padding: 8px;
+          }
+
+          #inpersonw2 tr:nth-child(even){background-color: #f2f2f2;}
+
+          #inpersonw2 tr:hover {background-color: #ddd;}
+
+          #inpersonw2 th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #b8d064;
+            color: white;
+          }
     </style>
 </head>
   
 <body>
   
-</body>
-  
-</html>
+
 
 <h1 style="background-color:white; color:black; text-align: center;"> Data Science Initiative for Africa (DSI-A) Training Programme </h1>
 
@@ -65,34 +132,8 @@ title: Deep Learning Short Course
 Below is an outline of the current plan for course topics and schedule. It is intended to serve as guidance, the specific topics and schedule may change at the decision of the course instructional staff.
 
 
-<html>
-<head>
-<style>
-#virtual {
-  font-family: Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
 
-#virtual td, #virtual th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
 
-#virtual tr:nth-child(even){background-color: #f2f2f2;}
-
-#virtual tr:hover {background-color: #ddd;}
-
-#virtual th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: center;
-  background-color: #b8d064;
-  color: white;
-}
-</style>
-</head>
-<body>
 
 <h2>Virtual BootCamp</h2>
 
@@ -135,8 +176,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
   </tr>
 </table>
 
-</body>
-</html>
+<br>
 
 
 
@@ -145,34 +185,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 
 
-<html>
-<head>
-<style>
-#inpersonw1 {
-  font-family: Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
 
-#inpersonw1 td, #inpersonw1 th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-
-#inpersonw1 tr:nth-child(even){background-color: #f2f2f2;}
-
-#inpersonw1 tr:hover {background-color: #ddd;}
-
-#inpersonw1 th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: center;
-  background-color: #b8d064;
-  color: white;
-}
-</style>
-</head>
-<body>
 
 <h2>In-Person Lectures</h2>
 
@@ -273,8 +286,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
   </tr>
 </table>
 
-</body>
-</html>
+<br>
 
 
 
@@ -282,34 +294,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 
 
-<html>
-<head>
-<style>
-#inpersonw2 {
-  font-family: Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
 
-#inpersonw2 td, #inpersonw2 th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-
-#inpersonw2 tr:nth-child(even){background-color: #f2f2f2;}
-
-#inpersonw2 tr:hover {background-color: #ddd;}
-
-#inpersonw2 th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: center;
-  background-color: #b8d064;
-  color: white;
-}
-</style>
-</head>
-<body>
 
 
 <table id="inpersonw2">
