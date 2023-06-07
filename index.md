@@ -15,7 +15,7 @@ title: Deep Learning Short Course
   
          
         blink {
-            font-size: 2em;
+            font-size: 1.5em;
             font-family: serif;
             color: #008000;
             text-align: center;
