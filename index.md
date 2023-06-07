@@ -149,29 +149,29 @@ Below is an outline of the current plan for course topics and schedule. It is in
   </tr>
   <tr>
     <td><b>9:00-10:30</b></td>
-    <td>Introduction to Deep Learning</td>
+    <td>Introduction to Deep Learning, Deep Learning vs Machine Learning</td>
     <td>Introduction to Backpropagation and Multilayer Perceptrons (MLPs)</td>
-    <td>MLPs in Python with Keras, Regularization</td>
-    <td>Introduction to Convulutional Neural Networks (CNNs)</td>
+    <td>MLPs in Python with Keras</td>
+    <td>Introduction to Convolutional Neural Networks (CNNs), Convolution layers, pooling layers, fully connected layers</td>
     <td>CNNs Basics, Fine Tuning and Visualzing the CNNs Model</td>
     <td>Group Discussion & Mini Project (in Global Health and Climate Change)</td>
   </tr>
   <tr>
     <td class="tg-amwm"><b>10:30-11:00</b></td>
-    <td class="tg-0lax">Tea Break</td>
-    <td class="tg-0lax">Tea Break</td>
-    <td class="tg-0lax">Tea Break</td>
-    <td class="tg-0lax">Tea Break</td>
-    <td class="tg-0lax">Tea Break</td>
-    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
   </tr>
   <tr>
     <td class="tg-amwm"><b>11:00-12:30</b></td>
-    <td class="tg-0lax">Deep Learning vs Machine Learning, Unsupoervised Machine Learning</td>
-    <td class="tg-0lax">Activation Functions</td>
-    <td class="tg-0lax">MLPs in Python with Keras, Regularization</td>
-    <td class="tg-0lax">Convlution, Pooling, and Fully Connected Layers</td>
-    <td class="tg-0lax">CNNs Basics, Fine Tuning and Visualzing the CNNs Model</td>
+    <td class="tg-0lax">Unsupoervised Machine Learning</td>
+    <td class="tg-0lax">Introduction to MLPs Activiation functions, Regularization Techniques</td>
+    <td class="tg-0lax">Regularization</td>
+    <td class="tg-0lax">Transfer Learning and Fine-Tuning, Pre-trained Models, Data Agumentation using pretrained networks</td>
+    <td class="tg-0lax">Training and Testing Models on Samples Datasets</td>
     <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
   </tr>
   <tr>
@@ -186,11 +186,11 @@ Below is an outline of the current plan for course topics and schedule. It is in
   <tr>
     <td class="tg-amwm"><b>13:30-14:30</b></td>
     <td class="tg-0lax">Neural Networks Architecture Basics</td>
-    <td class="tg-0lax">Regularization Techniques</td>
-    <td class="tg-0lax">MLPs in Python with Keras, Regularization</td>
-    <td class="tg-0lax">Data Agumentation using Pretrained Networks</td>
-    <td class="tg-0lax">Training and Testing Models on Sample Datasets</td>
-    <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Group Presentations</td>
   </tr>
   <tr>
     <td class="tg-amwm"><b>14:30-14:45</b></td>
@@ -203,21 +203,21 @@ Below is an outline of the current plan for course topics and schedule. It is in
   </tr>
   <tr>
     <td class="tg-amwm"><b>14:45-16:00</b></td>
-    <td class="tg-0lax">Simple Example of Deep Learning in Global Health Research</td>
+    <td class="tg-0lax">Simple Examples of Deep Learning in Global Health Research</td>
     <td class="tg-0lax">Lab Session</td>
     <td class="tg-0lax">Lab Session</td>
     <td class="tg-0lax">Lab Session</td>
     <td class="tg-0lax">Lab Session</td>
-    <td class="tg-0lax">Group Discussion & Mini Project (in Global Health and Climate Change)</td>
+    <td class="tg-0lax">Group Presentations</td>
   </tr>
   <tr>
     <td><b>16:00-16:30</b></td>
-    <td>office hours</td>
-    <td>office hours</td>
-    <td>office hours</td>
-    <td>office hours</td>
-    <td>office hours</td>
-    <td>office hours</td>
+    <td>Office hours</td>
+    <td>Office hours</td>
+    <td>Office hours</td>
+    <td>Office hours</td>
+    <td>Office hours</td>
+    <td>Office hours</td>
   </tr>
 </table>
 
