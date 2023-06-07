@@ -4,7 +4,11 @@ title: Resources
 --- 
 
 <h3> The list of Python packages needed for this course can be found in the table below. </h3> <br>
-<span style="text-decoration:blink"> Mohanad </span> <br>
+<p> <span style="text-decoration:blink"> Mohanad </span> </p> <br>
+
+<p>
+  <span class="blink">blink</span>-182
+</p>
 
 
 <html>
