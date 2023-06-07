@@ -14,7 +14,7 @@ title: Deep Learning Short Course
     <style>
   
          
-        h2 {
+        blink {
             font-size: 1em;
             font-family: serif;
             color: #008000;
@@ -40,7 +40,7 @@ title: Deep Learning Short Course
 </head>
   
 <body>
-   <h2>Note: All lectures will start from 9:00 AM - 4:30 PM for both <i lang="la">Virtual BootCamp</i> AND <i lang="la">In-Person</i>.</h2>
+   <blink>Note: All lectures will start from 9:00 AM - 4:30 PM for both <i lang="la">Virtual BootCamp</i> AND <i lang="la">In-Person</i>.</blink>
 </body>
   
 </html>
