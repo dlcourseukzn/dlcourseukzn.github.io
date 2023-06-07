@@ -33,8 +33,7 @@ title: Resources
 }
 </style>
 </head>
-  <link rel="stylesheet" type="text/css" href="stylesheets/style.css" />
-
+  <link rel="stylesheet" type="text/css" href="../stylesheets/style.css" />
 <body>
     <div>
         <h2>Blink</h2>
