@@ -13,7 +13,7 @@ title: Deep Learning Short Course
     <style>
   
          img {
-              max-width: 100%;
+              width: 100%;
             }
         h3 {
             font-size: 1.6em;
