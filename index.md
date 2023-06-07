@@ -157,9 +157,6 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td>Santiago, Sandra, Mohanad</td>
   </tr>
   
-  
-  
-  
   <tr>
     <td><b>9:00-10:30</b></td>
     <td>Introduction to Deep Learning, Deep Learning vs Machine Learning</td>
@@ -285,6 +282,17 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <th class="tg-amwm"><b>Thursday 06/07</b></th>
     <th class="tg-amwm"><b>Friday 07/07</b></th>
   </tr>
+  <tr>
+    <td><b>Facilitator(s)</b></td>
+    <td>Santiago, Sandra, Mandla, Kennedy</td>
+    <td>Santiago, Sandra, Mandla, Kennedy</td>
+    <td> Santiago, Sandra, Mandla, Kennedy </td>
+    <td>Santiago, Sandra, Mohanad, Gabriel </td>
+    <td>Santiago, Sandra, Mohanad, Gabriel </td>
+  </tr>
+  
+  
+  
   <tr>
     <td class="tg-amwm"><b>9:00-10:30</b></td>
     <td class="tg-0lax">Introduction to Recurrent Neural Networks (RNNs), Overview of different types of RNNs (vanilla RNNs, LSTM, GRUs)</td>
