@@ -11,7 +11,10 @@ title: Deep Learning Short Course
   
   
     <style>
-  
+          body{
+                margin: 0;
+                padding: 0;
+              }
          img {
               width: 100%;
             }
