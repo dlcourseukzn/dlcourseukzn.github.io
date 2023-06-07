@@ -148,6 +148,19 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <th><b>Saturday 01/07</b></th>
   </tr>
   <tr>
+    <td><b>Facilitator(s)</b></td>
+    <td>Santiago, Sandra</td>
+    <td>Santiago, Sandra, Mandla</td>
+    <td> Santiago, Sandra, Mohanad </td>
+    <td>Santiago, Sandra, Mohanad</td>
+    <td>Santiago, Sandra, Mohanad</td>
+    <td>Santiago, Sandra, Mohanad</td>
+  </tr>
+  
+  
+  
+  
+  <tr>
     <td><b>9:00-10:30</b></td>
     <td>Introduction to Deep Learning, Deep Learning vs Machine Learning</td>
     <td>Introduction to Backpropagation and Multilayer Perceptrons (MLPs)</td>
