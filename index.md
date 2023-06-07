@@ -12,10 +12,6 @@ title: Deep Learning Short Course
   
   
     <style>
-        body {
-            margin: 0;
-            padding: 0;
-        }
   
         div {
             position: absolute;
