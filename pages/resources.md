@@ -39,10 +39,15 @@ title: Resources
   color: white;
 }
 </style>
+<link rel="stylesheet" href="../stylesheets/style.css" />
 </head>
  
 <body>
-    
+ <h3>
+      <blink>Blinking text</blink>
+    </h3>
+    <span class="blink-one">CSS blinking effect for opacity starting with 0%</span>
+    <p class="blink-two">CSS blinking effect for opacity starting with 100%</p>   
 <table id="pythonpackages">
   <tr>
     <th><b>Package</b></th>
