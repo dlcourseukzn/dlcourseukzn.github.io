@@ -14,7 +14,7 @@ title: Deep Learning Short Course
     <style>
   
          
-        h0 {
+        h2 {
             font-size: 1.5em;
             font-family: serif;
             color: #008000;
@@ -40,7 +40,7 @@ title: Deep Learning Short Course
 </head>
   
 <body>
-   <h0>Note: All lectures will start from 9:00 AM - 4:30 PM for both <i lang="la">Virtual BootCamp</i> AND <i lang="la">In-Person</i>.</h0>
+   <h2>Blink</h2>
 </body>
   
 </html>
@@ -50,7 +50,7 @@ title: Deep Learning Short Course
 <h2 style="background-color:white; color:black; text-align: center;"> A Short Course in Deep Learning with a Focus on Health Data Science </h2>
 
 
-<h0 style="background-color:white; color:Tomato; text-align: center;"> Note: All lectures will start from 9:00 AM - 4:30 PM for both <i lang="la">Virtual BootCamp</i> AND <i lang="la">In-Person</i>. </h0> <br>
+<h2 style="background-color:white; color:Tomato; text-align: center;"> Note: All lectures will start from 9:00 AM - 4:30 PM for both <i lang="la">Virtual BootCamp</i> AND <i lang="la">In-Person</i>. </h2> <br>
 
 <h2 style="background-color:white; color:black; text-align: left;"> Virtual BootCamp: 19 – 23 June 2023 </h2>
 <h4 style="background-color:white; color:black; text-align: left;"> Please use the following link: <a href="https://ukzn.zoom.us/j/98032587955?pwd=TnkzUHpvc0txMTA1WWViNVZseTVEdz09" target="_blank"><span style="text-align:center">ZOOM LINK</span></a>. </h4>
