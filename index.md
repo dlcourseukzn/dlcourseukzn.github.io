@@ -274,26 +274,26 @@ Below is an outline of the current plan for course topics and schedule. It is in
   </tr>
   <tr>
     <td class="tg-amwm"><b>9:00-10:30</b></td>
-    <td class="tg-0lax">Introduction to Recurrent Neural Networks (RNNs)</td>
-    <td class="tg-0lax">RNNs Basics</td>
-    <td class="tg-0lax">RNNs Basics Continued (LSTM)</td>
+    <td class="tg-0lax">Introduction to Recurrent Neural Networks (RNNs), Overview of different types of RNNs (vanilla RNNs, LSTM, GRUs)</td>
+    <td class="tg-0lax">RNNs Basics, Gradient flow and backpropagation Through Time (BPTT)</td>
+    <td class="tg-0lax">RNNs Basics Continued (LSTM), LSTM and GRU cells</td>
     <td class="tg-0lax">Introduction to Transformers and Transfer Learning</td>
     <td class="tg-0lax">Project Competition</td>
   </tr>
   <tr>
     <td class="tg-amwm"><b>10:30-11:00</b></td>
-    <td class="tg-0lax">Tea Break</td>
-    <td class="tg-0lax">Tea Break</td>
-    <td class="tg-0lax">Tea Break</td>
-    <td class="tg-0lax">Tea Break</td>
-    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
   </tr>
   <tr>
     <td class="tg-amwm"><b>11:00-12:30</b></td>
-    <td class="tg-0lax">Overview of Different Types of RNNs</td>
-    <td class="tg-0lax">RNNs Basics</td>
-    <td class="tg-0lax">LSTM and GRU cells</td>
-    <td class="tg-0lax">Introduction to Transformers and Transfer Learning</td>
+    <td class="tg-0lax">Basic Structure of RNNs and How they work, Application of RNNs in Global Health Research</td>
+    <td class="tg-0lax">RNNs Basics, Gradient flow and backpropagation Through Time (BPTT)</td>
+    <td class="tg-0lax">Implementing a Simple RNN in Python (Tenserflow)</td>
+    <td class="tg-0lax">Pre-Trained models, Fine-Tuning</td>
     <td class="tg-0lax">Project Competition</td>
   </tr>
   <tr>
@@ -306,23 +306,23 @@ Below is an outline of the current plan for course topics and schedule. It is in
   </tr>
   <tr> 
     <td class="tg-amwm"><b>13:30-14:30</b></td>
-    <td class="tg-0lax">Basic Structure of RNNs and How they Work</td>
-    <td class="tg-0lax">Gradient Flow and Backpropagation through Time (BPTT)</td>
-    <td class="tg-0lax">Implementing a Simple RNN in Python (Tenserflow)</td>
-    <td class="tg-0lax">Pre-Trained Models, Fine-Tuning</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Lab Session</td>
+    <td class="tg-0lax">Lab Session</td>
     <td class="tg-0lax">Course Evaluation</td>
   </tr>
   <tr>
     <td class="tg-amwm"><b>14:30-14:45</b></td>
-    <td class="tg-0lax">Tea Break</td>
-    <td class="tg-0lax">Tea Break</td>
-    <td class="tg-0lax">Tea Break</td>
-    <td class="tg-0lax">Tea Break</td>
-    <td class="tg-0lax">Tea Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
+    <td class="tg-0lax">Break</td>
   </tr>
   <tr> 
     <td class="tg-amwm"><b>14:45-16:00</b></td>
-    <td class="tg-0lax">Applications of RNNs in Global Health Research</td>
+    <td class="tg-0lax">Lab Session</td>
     <td class="tg-0lax">Lab Session</td>
     <td class="tg-0lax">Lab Session</td>
     <td class="tg-0lax">Lab Session</td>
