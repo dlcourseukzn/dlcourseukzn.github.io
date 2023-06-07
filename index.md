@@ -13,15 +13,9 @@ title: Deep Learning Short Course
   
     <style>
   
-        div {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-        }
-  
+         
         h2 {
-            font-size: 5em;
+            font-size: 1em;
             font-family: serif;
             color: #008000;
             text-align: center;
@@ -46,9 +40,7 @@ title: Deep Learning Short Course
 </head>
   
 <body>
-    <div>
-        <h2>Note: All lectures will start from 9:00 AM - 4:30 PM for both <i lang="la">Virtual BootCamp</i> AND <i lang="la">In-Person</i>.</h2>
-    </div>
+   <h2>Note: All lectures will start from 9:00 AM - 4:30 PM for both <i lang="la">Virtual BootCamp</i> AND <i lang="la">In-Person</i>.</h2>
 </body>
   
 </html>
