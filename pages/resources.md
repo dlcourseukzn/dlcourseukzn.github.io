@@ -28,7 +28,7 @@ title: Resources
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: center;
-  background-color: #04AA6D;
+  background-color: #b8d064;
   color: white;
 }
 </style>
