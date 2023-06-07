@@ -3,7 +3,8 @@ layout: page
 title: Resources 
 --- 
 
-<h3> The list of Python packages needed for this course can be found in the table below. </h3>
+<h3> The list of Python packages needed for this course can be found in the table below. </h3> <br>
+<SPAN STYLE=”text-decoration:blink”> Mohanad </SPAN>
 
 
 <html>
@@ -35,7 +36,7 @@ title: Resources
 </head>
  
 <body>
-    <blink> blinking text </blink>
+    
 <table id="pythonpackages">
   <tr>
     <th><b>Package</b></th>
