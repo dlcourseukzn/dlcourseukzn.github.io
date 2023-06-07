@@ -4,7 +4,7 @@ title: Resources
 --- 
 
 <h3> The list of Python packages needed for this course can be found in the table below. </h3>
-<blink> blinking text </blink>
+
 
 <html>
 <head>
@@ -35,7 +35,7 @@ title: Resources
 </head>
  
 <body>
-    
+    <blink> blinking text </blink>
 <table id="pythonpackages">
   <tr>
     <th><b>Package</b></th>
