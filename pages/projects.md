@@ -8,7 +8,14 @@
             transform: translate(-50%, -50%);
         }
   
-        
+        h2 {
+            font-size: 5em;
+            font-family: serif;
+            color: #008000;
+            text-align: center;
+            animation: animate 
+                1.5s linear infinite;
+        }
   
         @keyframes animate {
             0% {
