@@ -3,14 +3,8 @@ layout: page
 title: Resources 
 --- 
 
-<h3> The list of Python packages needed for this course can be found in the table below. </h3> <br>
-<p> <span style="text-decoration:blink"> Mohanad </span> </p> <br>
+<h3> The list of Python packages needed for this course can be found in the table below. </h3> 
 
-<p>
-  <span class="blink">blink</span>-182
-</p>
-
-<span style="text-decoration: blink;">Text to blink here</span>
 
 
 <html>
@@ -39,15 +33,10 @@ title: Resources
   color: white;
 }
 </style>
-<link rel="stylesheet" href="../stylesheets/style.css" />
 </head>
  
 <body>
- <h3>
-      <blink>Blinking text</blink>
-    </h3>
-    <span class="blink-one">CSS blinking effect for opacity starting with 0%</span>
-    <p class="blink-two">CSS blinking effect for opacity starting with 100%</p>   
+ 
 <table id="pythonpackages">
   <tr>
     <th><b>Package</b></th>
