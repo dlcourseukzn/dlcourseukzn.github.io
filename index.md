@@ -121,12 +121,12 @@ title: Deep Learning Short Course
 <h2 style="background-color:white; color:black; text-align: center;"> A Short Course in Deep Learning with a Focus on Health Data Science </h2>
 
 
-<h3 style="background-color:white; color:Red; text-align: center;"> All lectures will start from 9:00 AM - 4:30 PM for both <i lang="la">Virtual BootCamp</i> AND <i lang="la">In-Person</i>. </h3> <br>
+<h3 style="background-color:white; color:Red; text-align: center;"> All lectures will start from 9:00 AM - 4:30 PM for both <i lang="la">Virtual BootCamp</i> AND <i lang="la">In-person</i>. </h3> <br>
 
 <h2 style="background-color:white; color:black; text-align: left;"> Virtual BootCamp: 19 – 23 June 2023 </h2>
 <h4 style="background-color:white; color:black; text-align: left;"> Please use the following link: <a href="https://ukzn.zoom.us/j/98032587955?pwd=TnkzUHpvc0txMTA1WWViNVZseTVEdz09" target="_blank"><span style="text-align:center">ZOOM LINK</span></a>. </h4>
 
-<h2 style="background-color:white; color:black; text-align: left;"> In-Person Deep Learning Course: 26 June – 7th July 2023 </h2> 
+<h2 style="background-color:white; color:black; text-align: left;"> In-person Deep Learning Course: 26 June – 7th July 2023 </h2> 
 <h4 style="background-color:white; color:black; text-align: left;"> Venue: <a href="https://www.southernsun.com/southern-sun-elangeni-maharani" target="_blank"><span style="text-align:center">Elangeni Hotel</span></a>, 63 Snell Parade, North Beach, Durban, 4001. </h4> <br>
 
 
@@ -191,7 +191,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 
 
-<h2>In-Person Lectures</h2>
+<h2>In-person Lectures</h2>
 
 <table id="inpersonw1">
   <tr>
