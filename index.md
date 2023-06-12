@@ -15,7 +15,7 @@ title: Deep Learning Short Course
                 margin: 0;
                 padding: 0;
                 /* background-color: #05c46b;*/
-                /* font-family: Verdana;*/
+                font-family: Verdana;
                 /*text-align: center;*/
               }
          img {
