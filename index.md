@@ -284,12 +284,12 @@ Below is an outline of the current plan for course topics and schedule. It is in
   </tr>
   <tr>
     <td><b>16:00-16:30</b></td>
-    <td>Office hours</td>
-    <td>Office hours</td>
-    <td>Office hours</td>
-    <td>Office hours</td>
-    <td>Office hours</td>
-    <td>Office hours</td>
+    <td>Office Hours</td>
+    <td>Office Hours</td>
+    <td>Office Hours</td>
+    <td>Office Hours</td>
+    <td>Office Hours</td>
+    <td>Office Hours</td>
   </tr>
 </table>
 
