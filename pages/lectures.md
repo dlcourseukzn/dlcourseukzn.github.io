@@ -12,7 +12,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <h3> Virtual BootCamp </h3>
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Intro_to_Epi.pdf" download> Day 1: Introduction to Epidemiology - Dr. Khan </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Intro_to_Epi.pdf" download> Day 1: Introduction to Epidemiology - Prof. Khan & Dr. Stephen </a>
 
 /* <a href="https://dlcourseukzn.github.io/PDFLectures/Intro_to_Epi.pdf" download> Day 2: Introduction to Epidemiology - Dr. Khan </a> */
 
