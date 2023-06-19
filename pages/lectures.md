@@ -7,7 +7,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <h4> Slack Channel </h4>
 
-<h5 style="background-color:white; color:black; text-align: left;"> Please click <a href="https://join.slack.com/t/deeplearnings-cka9031/shared_invite/zt-1wjmgh4f6-GS_T7H4qYLS0mIn9LkrzUA" target="_blank"><span style="text-align:center"> HERE </span></a> to join the slack channel. </h5>
+<h5 style="background-color:white; color:black; text-align: left;"> Please click <a href="https://join.slack.com/t/deeplearnings-cka9031/shared_invite/zt-1wjmgh4f6-GS_T7H4qYLS0mIn9LkrzUA" target="_blank"><span style="text-align:center"> HERE </span></a> to join the slack channel. Slack Keeps our communication organized, efficient, and fun. </h5>
 
 
 <h3> Virtual BootCamp </h3>
