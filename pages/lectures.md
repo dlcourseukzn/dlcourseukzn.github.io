@@ -11,7 +11,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 
 <h3 Virtual BootCamp </h3>
-<h4> Day 1: </h4> <a href="https://mlcourseukzn.github.io/PDFLectures/Day1/MachineLearningIntro.pdf" download>Machine Learning Introduction - Prof. Till</a>
+<a href="https://mlcourseukzn.github.io//Intro_to_Epi.pdf" download> <h4> Day 1: Introduction to Epidemiology - Dr. Khan </h4> </a>
 
 
 
