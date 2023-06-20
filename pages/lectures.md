@@ -20,7 +20,8 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/bias_confound.pdf" download> Bias Confound - Prof. Khan </a> <br>
 <a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/Causal modelling versus predictive modelling.pdf" download> Causal modelling versus predictive modelling - Dr. Stephen </a>
 
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Intro_to_Epi.pdf" download> Day 2: Introduction to Epidemiology - Dr. Khan </a> -->
+<h4> Additional Resources </h4>
+<a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/epi_bootcamp_papers-20230620T181844Z-001.zip" download> Epi papers </a>
 
 
 
