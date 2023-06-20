@@ -16,6 +16,10 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Intro_to_Epi.pdf" download> Introduction to Epidemiology - Prof. Khan </a> <br>
 <a href="https://dlcourseukzn.github.io/PDFLectures/Sensitivity, Specificity, PPV, NPV_2023_06_19.pdf" download> Sensitivity, Specificity, PPV, NPV - Dr. Stephen </a>
 
+<h4> Day 2:</h4>
+<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Intro_to_Epi.pdf" download> Introduction to Epidemiology - Prof. Khan </a> --> <br>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Sensitivity, Specificity, PPV, NPV_2023_06_19.pdf" download> Causal modelling versus predictive modelling - Dr. Stephen </a>
+
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Intro_to_Epi.pdf" download> Day 2: Introduction to Epidemiology - Dr. Khan </a> -->
 
 
