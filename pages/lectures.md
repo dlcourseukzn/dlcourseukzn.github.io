@@ -13,12 +13,12 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <h3> Virtual BootCamp </h3>
 
 <h4> Day 1:</h4>
-<a href="https://dlcourseukzn.github.io/PDFLectures/Intro_to_Epi.pdf" download> Introduction to Epidemiology - Prof. Khan </a> <br>
-<a href="https://dlcourseukzn.github.io/PDFLectures/Sensitivity, Specificity, PPV, NPV_2023_06_19.pdf" download> Sensitivity, Specificity, PPV, NPV - Dr. Stephen </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/Intro_to_Epi.pdf" download> Introduction to Epidemiology - Prof. Khan </a> <br>
+<a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/Sensitivity, Specificity, PPV, NPV_2023_06_19.pdf" download> Sensitivity, Specificity, PPV, NPV - Dr. Stephen </a>
 
 <h4> Day 2:</h4>
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Intro_to_Epi.pdf" download> Introduction to Epidemiology - Prof. Khan </a> --> <br>
-<a href="https://dlcourseukzn.github.io/PDFLectures/Causal modelling versus predictive modelling.pdf" download> Causal modelling versus predictive modelling - Dr. Stephen </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/bias_confound.pdf" download> Bias Confound - Prof. Khan </a> <br>
+<a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/Causal modelling versus predictive modelling.pdf" download> Causal modelling versus predictive modelling - Dr. Stephen </a>
 
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Intro_to_Epi.pdf" download> Day 2: Introduction to Epidemiology - Dr. Khan </a> -->
 
