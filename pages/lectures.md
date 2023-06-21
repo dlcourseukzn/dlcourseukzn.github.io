@@ -29,6 +29,9 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <h4> Additional Resources </h4>
 <a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/epi_bootcamp_papers-20230620T181844Z-001.zip" download> Epi papers </a>
 
+<h4> Python Resources </h4>
+<a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/DSI-Africa-Python-June-2023-main.zip" download> DSI-Africa Python - Dr. Gwetu & Dr. Chengeta </a>
+
 
 
 
