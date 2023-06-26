@@ -1,4 +1,3 @@
-![image](https://github.com/dlcourseukzn/dlcourseukzn.github.io/assets/57400903/63a934bc-c3be-4c34-a7db-770f024aa502)---
 layout: page
 title: Lectures
 ---
