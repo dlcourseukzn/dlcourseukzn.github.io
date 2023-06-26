@@ -33,6 +33,11 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/DSI-Africa-Python-June-2023-main.zip" download> DSI-Africa Python - Dr. Gwetu & Dr. Chengeta </a>
 
 
+<h3> In-person </h3>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_01_2023 History intro.pdf" download> Lecture_01_2023 History intro - Prof. Santiago </a>
+
+
+
 
 
 
