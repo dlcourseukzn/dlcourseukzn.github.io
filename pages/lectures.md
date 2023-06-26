@@ -1,4 +1,4 @@
----
+![image](https://github.com/dlcourseukzn/dlcourseukzn.github.io/assets/57400903/63a934bc-c3be-4c34-a7db-770f024aa502)---
 layout: page
 title: Lectures
 ---
@@ -37,7 +37,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_01_2023 History intro.pdf" download> Lecture_01_2023 History intro - Prof. Santiago </a>
 
 
-
+<a href="https://forms.gle/RZHWxhbBBMes7yPx8"> UKZN Deep Learning course </a>
 
 
 
