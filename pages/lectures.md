@@ -36,6 +36,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <h3> In-person </h3>
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_01_2023 History intro.pdf" download> Lecture_01_2023 History intro - Prof. Santiago </a>
 
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_02 2023 - MLPs, backprop, Python.pdf" download> Lecture_02 2023 - MLPs, backprop, Python - Prof. Santiago </a>
 
 <a href="https://forms.gle/RZHWxhbBBMes7yPx8"> UKZN Deep Learning course </a>
 
