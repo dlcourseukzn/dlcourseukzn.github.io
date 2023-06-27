@@ -50,6 +50,8 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_07 2023 - CNNs, fine-tuning and visualization.pdf" download> Lecture_07 2023 - CNNs, fine-tuning and visualization - Prof. Santiago </a> -->
 
+<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Copy of Lab1.ipynb" download> Lab 1 - Dr. Mohanad </a> -->
+
 
 
 
