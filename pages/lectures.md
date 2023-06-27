@@ -40,7 +40,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://forms.gle/RZHWxhbBBMes7yPx8"> UKZN Deep Learning course </a>
 
-
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_03 2023 - MLPs in python, regularization.pdf" download> Lecture_03 2023 - MLPs in python, regularization - Prof. Santiago </a>
 
 
 
