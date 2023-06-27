@@ -42,7 +42,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_03 2023 - MLPs in python, regularization.pdf" download> Lecture_03 2023 - MLPs in python, regularization - Prof. Santiago </a>
 
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_04 2023 - Intro to CNNs.pdf" download> Lecture_04 2023 - Intro to CNNs - Prof. Santiago </a> -->
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_04 2023 - Intro to CNNs.pdf" download> Lecture_04 2023 - Intro to CNNs - Prof. Santiago </a>
 
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_05 2023 - CNNs + data augmentation + overview.pdf" download> Lecture_05 2023 - CNNs + data augmentation + overview - Prof. Santiago </a> -->
 
