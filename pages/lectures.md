@@ -54,19 +54,31 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab2.ipynb" download> Lab 2 -   </a>
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab2_solutions.ipynb" download>  Lab2 solutions - Dr. Mohanad </a>
 
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_07 2023 - CNNs, fine-tuning and visualization.pdf" download> Lecture_07 2023 - CNNs, fine-tuning and visualization - Prof. Santiago </a> -->
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_07 2023 - CNNs, fine-tuning and visualization.pdf" download> Lecture_07 2023 - CNNs, fine-tuning and visualization - Prof. Santiago </a>
 
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_08 2023 - VAEs, GANs.pdf" download> Lecture_08 2023 - VAEs, GANs - Prof. Santiago </a> -->
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_08 2023 - VAEs, GANs.pdf" download> Lecture_08 2023 - VAEs, GANs - Prof. Santiago </a>
 
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_09 2023 - Face recognition, advanced architectures.pdf" download> Lecture_09 2023 - Face recognition, advanced architectures - Prof. Santiago </a> -->
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab3.ipynb" download> Lab 3 -   </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab3_solutions.ipynb" download>  Lab3 solutions - Dr. Mohanad </a>
 
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_09&11 2023 - Face recognition, advanced architectures.pdf" download> Lecture_09&11 2023 - Face recognition, advanced architectures - Prof. Santiago </a> -->
 
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_12 2023 - Word embeddings, RNNs, LSTMs.pdf" download> Lecture_12 2023 - Word embeddings, RNNs, LSTMs - Prof. Santiago </a> -->
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_09 2023 - Face recognition, advanced architectures.pdf" download> Lecture_09 2023 - Face recognition, advanced architectures - Prof. Santiago </a>
 
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_13 2023 - Problems with RNNs, Transformers.pdf" download> Lecture_13 2023 - Problems with RNNs, Transformers - Prof. Santiago </a> -->
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_09&11 2023 - Face recognition, advanced architectures.pdf" download> Lecture_09&11 2023 - Face recognition, advanced architectures - Prof. Santiago </a>
 
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_14 2023 - Transformers (cont.).pdf" download> Lecture_14 2023 - Transformers (cont.) - Prof. Santiago </a> -->
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4.ipynb" download> Lab 4 -   </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4_solutions.ipynb" download>  Lab4 solutions - Dr. Mohanad </a>
+
+
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_12 2023 - Word embeddings, RNNs, LSTMs.pdf" download> Lecture_12 2023 - Word embeddings, RNNs, LSTMs - Prof. Santiago </a>
+
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_13 2023 - Problems with RNNs, Transformers.pdf" download> Lecture_13 2023 - Problems with RNNs, Transformers - Prof. Santiago </a>
+
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5.ipynb" download> Lab 5 -   </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5_solutions.ipynb" download>  Lab5 solutions - Dr. Mohanad </a>
+
+
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_14 2023 - Transformers (cont.).pdf" download> Lecture_14 2023 - Transformers (cont.) - Prof. Santiago </a>
 
 
 
