@@ -49,7 +49,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_05 2023 - CNNs + data augmentation + overview.pdf" download> Lecture_05 2023 - CNNs + data augmentation + overview - Prof. Santiago </a>
 
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_06 2023 - CNNs, pretrained networks.pdf" download> Lecture_06 2023 - CNNs, pretrained networks - Prof. Santiago </a> -->
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_06 2023 - CNNs, pretrained networks.pdf" download> Lecture_06 2023 - CNNs, pretrained networks - Prof. Santiago </a>
 
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab2.ipynb" download> Lab 2 - Dr. Mohanad   </a> -->
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab2_solutions.ipynb" download>  Lab2 solutions </a> -->
