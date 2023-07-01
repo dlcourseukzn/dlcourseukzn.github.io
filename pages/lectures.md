@@ -66,6 +66,10 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_10 Accuracy metrics and model selection (part 1) 2022.pdf" download> Lecture_10 Accuracy metrics and model selection (part 1) 2022 - Prof. Santiago </a>
 
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Case Study - Arrythmia Classification.pdf" download> Case Study - Arrythmia Classification - Prof. Mandla </a>
+
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/DatasetLinks.txt" download> DatasetLinks - Prof. Mandla </a>
+
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4.ipynb" download> Lab 4 -   </a>
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4_solutions.ipynb" download>  Lab4 solutions - Dr. Mohanad </a> -->
 
