@@ -59,7 +59,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_08 2023 - Face recognition, advanced architectures - new.pdf" download> Lecture_08 2023 - Face recognition, advanced architectures - Prof. Santiago </a>
 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab3.ipynb" download> Lab 3 -   </a>
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab3_solutions.ipynb" download>  Lab3 solutions - Dr. Mohanad </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab3_solutions.ipynb" download>  Lab3 solutions - Prof. Santiago </a>
 
 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_09 2023 - VAEs, GANs.pdf" download> Lecture_09 2023 - VAEs, GANs - Prof. Santiago </a>
