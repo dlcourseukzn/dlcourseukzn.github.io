@@ -1,0 +1,3 @@
+EEG eye state: https://www.kaggle.com/datasets/robikscube/eye-state-classification-eeg-dataset (used in https://github.com/GWETUM-ACADEMIC-ORG/DSI-Africa-Python-June-2023/blob/main/Introduction_to_Time_Series_Dataset_Manipulation.ipynb)
+
+MIT-BIH Arrhythmia Database: https://www.kaggle.com/datasets/taejoongyoon/mitbit-arrhythmia-database (used in https://github.com/GWETUM-ACADEMIC-ORG/DSI-Africa-Python-June-2023/blob/main/Case_Study_Arrythmia_Classification.ipynb)
