@@ -56,15 +56,15 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_07 2023 - CNNs, fine-tuning and visualization.pdf" download> Lecture_07 2023 - CNNs, fine-tuning and visualization - Prof. Santiago </a>
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_08 2023 - VAEs, GANs.pdf" download> Lecture_08 2023 - VAEs, GANs - Prof. Santiago </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_08 2023 - Face recognition, advanced architectures - new.pdf" download> Lecture_08 2023 - Face recognition, advanced architectures - Prof. Santiago </a>
 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab3.ipynb" download> Lab 3 -   </a>
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab3_solutions.ipynb" download>  Lab3 solutions - Dr. Mohanad </a> -->
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab3_solutions.ipynb" download>  Lab3 solutions - Dr. Mohanad </a>
 
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_09 2023 - Face recognition, advanced architectures.pdf" download> Lecture_09 2023 - Face recognition, advanced architectures - Prof. Santiago </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_09 2023 - VAEs, GANs.pdf" download> Lecture_09 2023 - VAEs, GANs - Prof. Santiago </a>
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_09&11 2023 - Face recognition, advanced architectures.pdf" download> Lecture_09&11 2023 - Face recognition, advanced architectures - Prof. Santiago </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_10 Accuracy metrics and model selection (part 1) 2022.pdf" download> Lecture_10 Accuracy metrics and model selection (part 1) 2022 - Prof. Santiago </a>
 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4.ipynb" download> Lab 4 -   </a>
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4_solutions.ipynb" download>  Lab4 solutions - Dr. Mohanad </a> -->
