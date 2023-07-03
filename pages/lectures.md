@@ -70,6 +70,8 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/DatasetLinks.txt" download> DatasetLinks - Prof. Mandla </a>
 
+<a href=" https://drive.google.com/drive/folders/1c24x51EpRSn0GwcWHjIdWb0T4w3O88mW?usp=sharing" download> Saturday's Materials - Dr. Sandra </a>
+
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4.ipynb" download> Lab 4 -   </a>
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4_solutions.ipynb" download>  Lab4 solutions - Dr. Mohanad </a> -->
 
