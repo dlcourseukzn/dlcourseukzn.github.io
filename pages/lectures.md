@@ -84,6 +84,9 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_12 2023 - Word embeddings, RNNs, LSTMs.pdf" download> Lecture_12 2023 - Word embeddings, RNNs, LSTMs - Prof. Mandla </a>
 
+<a href="https://forms.gle/GdCLBXn3dtLunKEz8" target="_blank"> Quiz </a>
+
+
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_13 2023 - Problems with RNNs, Transformers.pdf" download> Lecture_13 2023 - Problems with RNNs, Transformers - Prof. Santiago </a>
 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5.ipynb" download> Lab 5 -   </a>
