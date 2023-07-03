@@ -195,6 +195,14 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://cloud.rssgmbh.de/index.php/s/WQtwaRErJRKj4Pa" target="_blank"> Project data (about 226GB) - Dr. Sandra </a> <br>
 
+<a href="https://scihub.copernicus.eu/dhus/#/home" target="_blank"> Sentinel satellite data (account registration required) - Dr. Sandra </a> <br>
+
+<a href="https://data.chc.ucsb.edu/products/CHIRPS-2.0/" target="_blank"> CHRIPS precipitation data - Dr. Sandra </a> <br>
+
+<a href="https://www.qgis.org/en/site/forusers/download.html" target="_blank"> QGIS Website (for software download) - Dr. Sandra </a> <br>
+
+<a href=" https://www.sciencedirect.com/science/article/pii/S1569843223000250?via%3Dihub" target="_blank"> Link to the paper website - Dr. Sandra </a> <br>
+
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4.ipynb" download> Lab 4 -   </a> --> <br>
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4_solutions.ipynb" download>  Lab4 solutions - Dr. Mohanad </a> --> <br>
 
