@@ -72,6 +72,12 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://drive.google.com/drive/folders/1c24x51EpRSn0GwcWHjIdWb0T4w3O88mW?usp=sharing" target="_blank"> Saturday's Materials - Dr. Sandra </a>
 
+<a href="https://www.qgis.org/en/site/forusers/download.html" target="_blank"> QGIS Website (for software download) - Dr. Sandra </a>
+
+<a href="https://cloud.rssgmbh.de/index.php/s/bsL832bCPELGzKj" target="_blank"> Results and two sentinel images for the exercise (Mon, 3rd July) - Dr. Sandra </a>
+
+<a href="https://cloud.rssgmbh.de/index.php/s/WQtwaRErJRKj4Pa" target="_blank"> Project data (about 226GB) - Dr. Sandra </a>
+
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4.ipynb" download> Lab 4 -   </a>
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4_solutions.ipynb" download>  Lab4 solutions - Dr. Mohanad </a> -->
 
