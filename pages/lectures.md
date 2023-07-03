@@ -82,7 +82,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4_solutions.ipynb" download>  Lab4 solutions - Dr. Mohanad </a> -->
 
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_12 2023 - Word embeddings, RNNs, LSTMs.pdf" download> Lecture_12 2023 - Word embeddings, RNNs, LSTMs - Prof. Santiago </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_12 2023 - Word embeddings, RNNs, LSTMs.pdf" download> Lecture_12 2023 - Word embeddings, RNNs, LSTMs - Prof. Mandla </a>
 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_13 2023 - Problems with RNNs, Transformers.pdf" download> Lecture_13 2023 - Problems with RNNs, Transformers - Prof. Santiago </a>
 
