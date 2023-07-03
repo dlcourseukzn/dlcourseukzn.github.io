@@ -122,7 +122,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <h5 style="background-color:white; color:black; text-align: left;"> Please click <a href="https://join.slack.com/t/deeplearnings-cka9031/shared_invite/zt-1wjmgh4f6-GS_T7H4qYLS0mIn9LkrzUA" target="_blank"><span style="text-align:center"> HERE </span></a> to join the slack channel. Slack Keeps our communication organized, efficient, and fun. </h5>
 
 
-<h3> Virtual BootCamp </h3>
+<h4> Virtual BootCamp </h4>
 
 <h4> Day 1:</h4>
 <a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/Intro_to_Epi.pdf" download> Introduction to Epidemiology - Prof. Khan </a> <br>
@@ -145,72 +145,72 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/DSI-Africa-Python-June-2023-main.zip" download> DSI-Africa Python - Dr. Gwetu & Dr. Chengeta </a>
 
 
-<h3> In-person </h3>
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_01_2023 History intro.pdf" download> Lecture_01_2023 History intro - Prof. Santiago </a>
+<h4> In-person </h4>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_01_2023 History intro.pdf" download> Lecture_01_2023 History intro - Prof. Santiago </a> <br>
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_02 2023 - MLPs, backprop, Python.pdf" download> Lecture_02 2023 - MLPs, backprop, Python - Prof. Santiago </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_02 2023 - MLPs, backprop, Python.pdf" download> Lecture_02 2023 - MLPs, backprop, Python - Prof. Santiago </a> <br>
 
-<a href="https://forms.gle/RZHWxhbBBMes7yPx8"> UKZN Deep Learning course </a>
+<a href="https://forms.gle/RZHWxhbBBMes7yPx8"> UKZN Deep Learning course </a> <br>
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_03 2023 - MLPs in python, regularization.pdf" download> Lecture_03 2023 - MLPs in python, regularization - Prof. Santiago </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_03 2023 - MLPs in python, regularization.pdf" download> Lecture_03 2023 - MLPs in python, regularization - Prof. Santiago </a> <br>
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_04 2023 - Intro to CNNs.pdf" download> Lecture_04 2023 - Intro to CNNs - Prof. Santiago </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_04 2023 - Intro to CNNs.pdf" download> Lecture_04 2023 - Intro to CNNs - Prof. Santiago </a> <br>
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab1.ipynb" download> Lab 1 -   </a> 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab1-solutions.ipynb" download>  Lab1 solutions - Dr. Mohanad </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab1.ipynb" download> Lab 1 -   </a> <br>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab1-solutions.ipynb" download>  Lab1 solutions - Dr. Mohanad </a> <br>
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_05 2023 - CNNs + data augmentation + overview.pdf" download> Lecture_05 2023 - CNNs + data augmentation + overview - Prof. Santiago </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_05 2023 - CNNs + data augmentation + overview.pdf" download> Lecture_05 2023 - CNNs + data augmentation + overview - Prof. Santiago </a> <br>
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_06 2023 - CNNs, pretrained networks.pdf" download> Lecture_06 2023 - CNNs, pretrained networks - Prof. Santiago </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_06 2023 - CNNs, pretrained networks.pdf" download> Lecture_06 2023 - CNNs, pretrained networks - Prof. Santiago </a> <br>
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab2.ipynb" download> Lab 2 -   </a>
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab2_solutions.ipynb" download>  Lab2 solutions - Dr. Mohanad </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab2.ipynb" download> Lab 2 -   </a> <br>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab2_solutions.ipynb" download>  Lab2 solutions - Dr. Mohanad </a> <br>
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_07 2023 - CNNs, fine-tuning and visualization.pdf" download> Lecture_07 2023 - CNNs, fine-tuning and visualization - Prof. Santiago </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_07 2023 - CNNs, fine-tuning and visualization.pdf" download> Lecture_07 2023 - CNNs, fine-tuning and visualization - Prof. Santiago </a> <br>
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_08 2023 - Face recognition, advanced architectures - new.pdf" download> Lecture_08 2023 - Face recognition, advanced architectures - Prof. Santiago </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_08 2023 - Face recognition, advanced architectures - new.pdf" download> Lecture_08 2023 - Face recognition, advanced architectures - Prof. Santiago </a> <br>
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab3.ipynb" download> Lab 3 -   </a>
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab3_solutions.ipynb" download>  Lab3 solutions - Prof. Santiago </a>
-
-
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_09 2023 - VAEs, GANs.pdf" download> Lecture_09 2023 - VAEs, GANs - Prof. Santiago </a>
-
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_10 Accuracy metrics and model selection (part 1) 2022.pdf" download> Lecture_10 Accuracy metrics and model selection (part 1) 2022 - Prof. Santiago </a>
-
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Case Study - Arrythmia Classification.pdf" download> Case Study - Arrythmia Classification - Prof. Mandla </a>
-
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/DatasetLinks.txt" download> DatasetLinks - Prof. Mandla </a>
-
-<a href="https://drive.google.com/drive/folders/1c24x51EpRSn0GwcWHjIdWb0T4w3O88mW?usp=sharing" target="_blank"> Saturday's Materials - Dr. Sandra </a>
-
-<a href="https://www.qgis.org/en/site/forusers/download.html" target="_blank"> QGIS Website (for software download) - Dr. Sandra </a>
-
-<a href="https://cloud.rssgmbh.de/index.php/s/bsL832bCPELGzKj" target="_blank"> Results and two sentinel images for the exercise (Mon, 3rd July) - Dr. Sandra </a>
-
-<a href="https://cloud.rssgmbh.de/index.php/s/WQtwaRErJRKj4Pa" target="_blank"> Project data (about 226GB) - Dr. Sandra </a>
-
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4.ipynb" download> Lab 4 -   </a>
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4_solutions.ipynb" download>  Lab4 solutions - Dr. Mohanad </a> -->
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab3.ipynb" download> Lab 3 -   </a> <br>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab3_solutions.ipynb" download>  Lab3 solutions - Prof. Santiago </a> <br>
 
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_12 2023 - Word embeddings, RNNs, LSTMs.pdf" download> Lecture_12 2023 - Word embeddings, RNNs, LSTMs - Prof. Mandla </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_09 2023 - VAEs, GANs.pdf" download> Lecture_09 2023 - VAEs, GANs - Prof. Santiago </a> <br>
 
-<!-- <a href="https://forms.gle/GdCLBXn3dtLunKEz8" target="_blank"> Quiz </a> -->
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_10 Accuracy metrics and model selection (part 1) 2022.pdf" download> Lecture_10 Accuracy metrics and model selection (part 1) 2022 - Prof. Santiago </a> <br>
+
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Case Study - Arrythmia Classification.pdf" download> Case Study - Arrythmia Classification - Prof. Mandla </a> <br>
+
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/DatasetLinks.txt" download> DatasetLinks - Prof. Mandla </a> <br>
+
+<a href="https://drive.google.com/drive/folders/1c24x51EpRSn0GwcWHjIdWb0T4w3O88mW?usp=sharing" target="_blank"> Saturday's Materials - Dr. Sandra </a> <br>
+
+<a href="https://www.qgis.org/en/site/forusers/download.html" target="_blank"> QGIS Website (for software download) - Dr. Sandra </a> <br>
+
+<a href="https://cloud.rssgmbh.de/index.php/s/bsL832bCPELGzKj" target="_blank"> Results and two sentinel images for the exercise (Mon, 3rd July) - Dr. Sandra </a> <br>
+
+<a href="https://cloud.rssgmbh.de/index.php/s/WQtwaRErJRKj4Pa" target="_blank"> Project data (about 226GB) - Dr. Sandra </a> <br>
+
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4.ipynb" download> Lab 4 -   </a> <br>
+<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4_solutions.ipynb" download>  Lab4 solutions - Dr. Mohanad </a> --> <br>
 
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_13 2023 - Problems with RNNs, Transformers.pdf" download> Lecture_13 2023 - Problems with RNNs, Transformers - Prof. Santiago </a>
-
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5.ipynb" download> Lab 5 -   </a>
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5_solutions.ipynb" download>  Lab5 solutions - Dr. Mohanad </a> -->
-
-
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_14 2023 - Transformers (cont.).pdf" download> Lecture_14 2023 - Transformers (cont.) - Prof. Santiago </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_12 2023 - Word embeddings, RNNs, LSTMs.pdf" download> Lecture_12 2023 - Word embeddings, RNNs, LSTMs - Prof. Mandla </a> <br>
+<h3> Please complete the following Quiz </h3>
+<!-- <a href="https://forms.gle/GdCLBXn3dtLunKEz8" target="_blank"> Quiz </a> --> <br>
 
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/ProblemSet1.ipynb" download> Problem Set1.ipynb   </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_13 2023 - Problems with RNNs, Transformers.pdf" download> Lecture_13 2023 - Problems with RNNs, Transformers - Prof. Santiago </a> <br>
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/ProblemSet2.ipynb" download>  ProblemSet2.ipynb </a>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5.ipynb" download> Lab 5 -   </a> <br>
+<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5_solutions.ipynb" download>  Lab5 solutions - Dr. Mohanad </a> --> <br>
+
+
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_14 2023 - Transformers (cont.).pdf" download> Lecture_14 2023 - Transformers (cont.) - Prof. Santiago </a> <br>
+
+
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/ProblemSet1.ipynb" download> Problem Set1.ipynb   </a> <br>
+
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/ProblemSet2.ipynb" download>  ProblemSet2.ipynb </a> <br>
 
 
 
