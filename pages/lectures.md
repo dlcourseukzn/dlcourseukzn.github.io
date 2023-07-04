@@ -185,7 +185,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://drive.google.com/drive/folders/1c24x51EpRSn0GwcWHjIdWb0T4w3O88mW?usp=sharing" target="_blank"> Saturday's Materials - Dr. Sandra </a> <br>
 
-<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_12 2023 - Word embeddings, RNNs, LSTMs.pdf" download> Lecture_12 2023 - Word embeddings, RNNs, LSTMs - Prof. Mandla </a> <be>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_12 2023 - Word embeddings, RNNs, LSTMs.pdf" download> Lecture_12 2023 - Word embeddings, RNNs, LSTMs - Prof. Mandla </a> <br>
 <!-- <h3> Please complete the following Quiz </h3> -->
 <!-- <a href="https://forms.gle/GdCLBXn3dtLunKEz8" target="_blank"> Quiz </a> <br> -->
 
