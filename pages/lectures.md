@@ -203,6 +203,8 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://www.sciencedirect.com/science/article/pii/S1569843223000250?via%3Dihub" target="_blank"> Link to the paper website - Dr. Sandra </a> <br>
 
+<a href="https://drive.google.com/drive/folders/1c24x51EpRSn0GwcWHjIdWb0T4w3O88mW?usp=sharing" target="_blank"> GoogleDrive folder - Dr. Sandra </a> <br>
+
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4.ipynb" download> Lab 4 -   </a> --> <br>
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4_solutions.ipynb" download>  Lab4 solutions - Dr. Mohanad </a> --> <br>
 
