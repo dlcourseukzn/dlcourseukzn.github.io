@@ -210,7 +210,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_13 2023 - Problems with RNNs, Transformers.pdf" download> Lecture_13 2023 - Problems with RNNs, Transformers - Prof. Santiago </a> <br> -->
 
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5.ipynb" download> Lab 5 -   </a> <br> -->
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5.ipynb" download> Lab 5 -   </a> <br>
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5_solutions.ipynb" download>  Lab5 solutions - Dr. Mohanad </a> --> <br>
 
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_14 2023 - Transformers (cont.).pdf" download> Lecture_14 2023 - Transformers (cont.) - Prof. Santiago </a> --> <br>
