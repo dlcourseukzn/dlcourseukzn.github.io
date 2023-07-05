@@ -209,15 +209,15 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 
 <a href="https://drive.google.com/drive/folders/1c24x51EpRSn0GwcWHjIdWb0T4w3O88mW?usp=sharing" target="_blank"> GoogleDrive folder - Dr. Sandra </a> <br>
 
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4.ipynb" download> Lab 4 -   </a> --> <br>
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4_solutions.ipynb" download>  Lab4 solutions - Dr. Mohanad </a> --> <br>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4.ipynb" download> Lab 4 -   </a> <br>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4_solutions.ipynb" download>  Lab4 solutions - Dr. Mohanad </a> <br>
 
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_13 2023 - Problems with RNNs, Transformers.pdf" download> Lecture_13 2023 - Problems with RNNs, Transformers - Prof. Santiago </a> <br> -->
 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5.ipynb" download> Lab 5 -   </a> <br>
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5_solutions.ipynb" download>  Lab5 solutions - Dr. Mohanad </a> --> <br>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5_solutions.ipynb" download>  Lab5 solutions - Dr. Mohanad </a> <br>
 
-<!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_14 2023 - Transformers (cont.).pdf" download> Lecture_14 2023 - Transformers (cont.) - Prof. Santiago </a> --> <br>
+<a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_14 2023 - Transformers (cont.).pdf" download> Lecture_14 2023 - Transformers (cont.) - Prof. Santiago </a> <br>
 
 
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/ProblemSet1.ipynb" download> Problem Set1.ipynb   </a> --> <br>
